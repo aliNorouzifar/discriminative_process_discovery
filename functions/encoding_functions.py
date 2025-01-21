@@ -110,7 +110,6 @@ def create_unique_trace_constraint_df(df):
     result_df
 
     return result_df
-
 def create_pivot_dataframe(result_df):
     """
     Creates a pivot DataFrame where rows are the values from the first column,
@@ -133,10 +132,10 @@ def create_pivot_dataframe(result_df):
             return "vac_satisfied"
 
     result_df['status'] = result_df.apply(determine_status, axis=1)
-    result_df['cell_value'] = result_df.apply(lambda row: (row['count'], row['status']), axis=1)
+    result_df['cell_value'] = result_df.apply(lambda row: row['status'], axis=1)
 
     pivot_df = result_df.pivot(index=result_df.columns[0], columns=result_df.columns[1], values='cell_value').reset_index()
-
+    pivot_df = pivot_df.merge(result_df[['Trace', 'count']].drop_duplicates(), on='Trace', how='left')
     return pivot_df
 
 

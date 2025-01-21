@@ -1,25 +1,6 @@
 import pandas as pd
 import ast
-
-def import_csv_as_dataframe(file_path):
-    """
-    Imports a CSV file as a Pandas DataFrame.
-
-    Parameters:
-        file_path (str): The path to the CSV file.
-
-    Returns:
-        pd.DataFrame: The content of the CSV file as a DataFrame.
-    """
-    try:
-        df = pd.read_csv(file_path, delimiter=';')
-        return df
-    except FileNotFoundError:
-        print(f"Error: The file '{file_path}' was not found.")
-    except pd.errors.EmptyDataError:
-        print(f"Error: The file '{file_path}' is empty.")
-    except Exception as e:
-        print(f"An unexpected error occurred: {e}")
+from functions.utils import import_csv_as_dataframe
 
 def create_unique_trace_constraint_df(df):
     """
@@ -92,20 +73,14 @@ def create_pivot_dataframe(result_df):
             return "vac_satisfied"
 
     result_df['status'] = result_df.apply(determine_status, axis=1)
-    result_df['cell_value'] = result_df.apply(lambda row: (row['count'], row['status']), axis=1)
+    result_df['cell_value'] = result_df.apply(lambda row: row['status'], axis=1)
 
     pivot_df = result_df.pivot(index=result_df.columns[0], columns=result_df.columns[1], values='cell_value').reset_index()
-
+    pivot_df = pivot_df.merge(result_df[['Trace', 'count']].drop_duplicates(), on='Trace', how='left')
     return pivot_df
 
-
 # Example usage
-# df = import_csv_as_dataframe('example.csv')
-# result_df = create_unique_trace_constraint_df(df, 'result.csv')
-
-
-# Example usage
-df = import_csv_as_dataframe(r'E:\PADS\Projects\IMr_pos_neg\outputs\test_stat_csv[eventsEvaluation].csv')
+df = import_csv_as_dataframe(r'E:\PADS\Projects\IMr_pos_neg\outputs\test_P[eventsEvaluation].csv')
 result_df = create_unique_trace_constraint_df(df)
 pivot_df = create_pivot_dataframe(result_df)
 pivot_df.to_csv(r'E:\PADS\Projects\IMr_pos_neg\outputs\encoded_traces.csv', index=False, sep=';')

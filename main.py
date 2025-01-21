@@ -45,5 +45,14 @@ pivot_df_M = create_pivot_dataframe(result_df_M)
 pivot_df_M.to_csv(encoded_M_path, index=False, sep=';')
 
 
-pivot_df_P = pd.read_csv(encoded_P_path, sep=';')
+
+
+# pivot_df_P = pd.read_csv(encoded_P_path, sep=';')
+# # Duplicate rows based on the "duplicates" column
+# duplicated_df = pivot_df_P.loc[pivot_df_P.index.repeat(pivot_df_P['duplicates'])].reset_index(drop=True)
+#
+# # Drop the "duplicates" column if not needed
+# duplicated_df = duplicated_df.drop(columns=['duplicates'])
+
+
 pivot_df_M = pd.read_csv(encoded_M_path, sep=';')
