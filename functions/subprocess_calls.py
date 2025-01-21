@@ -36,6 +36,7 @@ def measurement_extraction(input_log_path,combined_model_path,output_path):
         "-iLF", file_input,
         "-iME", "json",
         "-iMF", combined_model_path,
-        "-oCSV", output_path
+        "-oCSV", output_path,
+        "-detailsLevel", "event",
     ], env=env
         , cwd=os.getcwd()+"/Janus-master")

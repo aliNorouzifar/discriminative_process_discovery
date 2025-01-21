@@ -1,4 +1,7 @@
 import csv
+
+import pandas as pd
+
 from functions.subprocess_calls import discover_declare,measurement_extraction
 from functions.utils import read_json_file, save_json_file, import_csv_as_dataframe
 from functions.encoding_functions import combine_models,create_unique_trace_constraint_df, create_pivot_dataframe
@@ -40,7 +43,7 @@ df_M = import_csv_as_dataframe(meas_M_path.removesuffix(".csv")+"[eventsEvaluati
 result_df_M = create_unique_trace_constraint_df(df_M)
 pivot_df_M = create_pivot_dataframe(result_df_M)
 pivot_df_M.to_csv(encoded_M_path, index=False, sep=';')
-# print(pivot_df)
 
-# decl_P = csv.read()
-# decl_M = csv.read()
+
+pivot_df_P = pd.read_csv(encoded_P_path, sep=';')
+pivot_df_M = pd.read_csv(encoded_M_path, sep=';')
