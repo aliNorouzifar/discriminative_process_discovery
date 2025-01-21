@@ -1,0 +1,241 @@
+'Constraint';'Template';'Activation';'Target';'Support';'Confidence level';'Interest factor'
+'AtMostOne(Accept Claim)';'AtMostOne';'Accept Claim';;0.484;1.000;1.000
+'NotSuccession(Accept Claim, Block Claim 2)';'NotSuccession';'Accept Claim';'Block Claim 2';0.988;1.000;1.000
+'NotCoExistence(Accept Claim, Block Claim 2)';'NotCoExistence';'Accept Claim';'Block Claim 2';0.988;1.000;1.000
+'NotSuccession(Accept Claim, Block Claim 3)';'NotSuccession';'Accept Claim';'Block Claim 3';0.479;0.965;0.965
+'NotCoExistence(Accept Claim, Block Claim 3)';'NotCoExistence';'Accept Claim';'Block Claim 3';0.479;0.965;0.965
+'NotSuccession(Accept Claim, Correct Claim)';'NotSuccession';'Accept Claim';'Correct Claim';0.490;1.000;1.000
+'NotCoExistence(Accept Claim, Correct Claim)';'NotCoExistence';'Accept Claim';'Correct Claim';0.490;1.000;1.000
+'CoExistence(Accept Claim, Execute Payment)';'CoExistence';'Accept Claim';'Execute Payment';0.484;1.000;1.000
+'Succession(Accept Claim, Execute Payment)';'Succession';'Accept Claim';'Execute Payment';0.484;1.000;1.000
+'RespondedExistence(Accept Claim, Execute Payment)';'RespondedExistence';'Accept Claim';'Execute Payment';0.484;1.000;1.000
+'Response(Accept Claim, Execute Payment)';'Response';'Accept Claim';'Execute Payment';0.484;1.000;1.000
+'AlternateResponse(Accept Claim, Execute Payment)';'AlternateResponse';'Accept Claim';'Execute Payment';0.484;1.000;1.000
+'CoExistence(Accept Claim, Payment Order)';'CoExistence';'Accept Claim';'Payment Order';0.484;1.000;1.000
+'Succession(Accept Claim, Payment Order)';'Succession';'Accept Claim';'Payment Order';0.484;1.000;1.000
+'RespondedExistence(Accept Claim, Payment Order)';'RespondedExistence';'Accept Claim';'Payment Order';0.484;1.000;1.000
+'Response(Accept Claim, Payment Order)';'Response';'Accept Claim';'Payment Order';0.484;1.000;1.000
+'AlternateResponse(Accept Claim, Payment Order)';'AlternateResponse';'Accept Claim';'Payment Order';0.484;1.000;1.000
+'ChainResponse(Accept Claim, Payment Order)';'ChainResponse';'Accept Claim';'Payment Order';0.484;1.000;1.000
+'RespondedExistence(Accept Claim, Receive Claim)';'RespondedExistence';'Accept Claim';'Receive Claim';0.484;1.000;1.000
+'NotSuccession(Accept Claim, Receive Claim)';'NotSuccession';'Accept Claim';'Receive Claim';1.000;1.000;1.000
+'NotSuccession(Accept Claim, Receive Objection 1)';'NotSuccession';'Accept Claim';'Receive Objection 1';0.482;0.996;0.996
+'NotCoExistence(Accept Claim, Receive Objection 1)';'NotCoExistence';'Accept Claim';'Receive Objection 1';0.482;0.996;0.996
+'NotSuccession(Accept Claim, Receive Objection 2)';'NotSuccession';'Accept Claim';'Receive Objection 2';0.545;1.000;1.000
+'NotCoExistence(Accept Claim, Receive Objection 2)';'NotCoExistence';'Accept Claim';'Receive Objection 2';0.545;1.000;1.000
+'NotSuccession(Accept Claim, Reject Claim)';'NotSuccession';'Accept Claim';'Reject Claim';0.988;1.000;1.000
+'NotCoExistence(Accept Claim, Reject Claim)';'NotCoExistence';'Accept Claim';'Reject Claim';0.988;1.000;1.000
+'RespondedExistence(Accept Claim, Start Claim)';'RespondedExistence';'Accept Claim';'Start Claim';0.484;1.000;1.000
+'NotSuccession(Accept Claim, Start Claim)';'NotSuccession';'Accept Claim';'Start Claim';1.000;1.000;1.000
+'Precedence(Receive Claim, Accept Claim)';'Precedence';'Accept Claim';'Receive Claim';0.484;1.000;1.000
+'AlternatePrecedence(Receive Claim, Accept Claim)';'AlternatePrecedence';'Accept Claim';'Receive Claim';0.484;1.000;1.000
+'Precedence(Start Claim, Accept Claim)';'Precedence';'Accept Claim';'Start Claim';0.484;1.000;1.000
+'AlternatePrecedence(Start Claim, Accept Claim)';'AlternatePrecedence';'Accept Claim';'Start Claim';0.484;1.000;1.000
+'ChainPrecedence(Start Claim, Accept Claim)';'ChainPrecedence';'Accept Claim';'Start Claim';0.484;1.000;1.000
+'AtMostOne(Block Claim 2)';'AtMostOne';'Block Claim 2';;0.504;1.000;1.000
+'NotSuccession(Block Claim 2, Accept Claim)';'NotSuccession';'Block Claim 2';'Accept Claim';0.988;1.000;1.000
+'NotCoExistence(Block Claim 2, Accept Claim)';'NotCoExistence';'Block Claim 2';'Accept Claim';0.988;1.000;1.000
+'NotSuccession(Block Claim 2, Block Claim 3)';'NotSuccession';'Block Claim 2';'Block Claim 3';0.533;1.000;1.000
+'NotCoExistence(Block Claim 2, Block Claim 3)';'NotCoExistence';'Block Claim 2';'Block Claim 3';0.533;1.000;1.000
+'NotSuccession(Block Claim 2, Correct Claim)';'NotSuccession';'Block Claim 2';'Correct Claim';0.498;0.988;0.988
+'NotCoExistence(Block Claim 2, Correct Claim)';'NotCoExistence';'Block Claim 2';'Correct Claim';0.498;0.988;0.988
+'NotSuccession(Block Claim 2, Execute Payment)';'NotSuccession';'Block Claim 2';'Execute Payment';0.988;1.000;1.000
+'NotCoExistence(Block Claim 2, Execute Payment)';'NotCoExistence';'Block Claim 2';'Execute Payment';0.988;1.000;1.000
+'NotSuccession(Block Claim 2, Payment Order)';'NotSuccession';'Block Claim 2';'Payment Order';0.988;1.000;1.000
+'NotCoExistence(Block Claim 2, Payment Order)';'NotCoExistence';'Block Claim 2';'Payment Order';0.988;1.000;1.000
+'RespondedExistence(Block Claim 2, Receive Claim)';'RespondedExistence';'Block Claim 2';'Receive Claim';0.504;1.000;1.000
+'NotSuccession(Block Claim 2, Receive Claim)';'NotSuccession';'Block Claim 2';'Receive Claim';1.000;1.000;1.000
+'NotSuccession(Block Claim 2, Receive Objection 1)';'NotSuccession';'Block Claim 2';'Receive Objection 1';0.506;1.000;1.000
+'NotCoExistence(Block Claim 2, Receive Objection 1)';'NotCoExistence';'Block Claim 2';'Receive Objection 1';0.506;1.000;1.000
+'CoExistence(Block Claim 2, Reject Claim)';'CoExistence';'Block Claim 2';'Reject Claim';0.504;1.000;1.000
+'Succession(Block Claim 2, Reject Claim)';'Succession';'Block Claim 2';'Reject Claim';0.504;1.000;1.000
+'AlternateSuccession(Block Claim 2, Reject Claim)';'AlternateSuccession';'Block Claim 2';'Reject Claim';0.502;0.996;0.996
+'ChainSuccession(Block Claim 2, Reject Claim)';'ChainSuccession';'Block Claim 2';'Reject Claim';0.500;0.992;0.992
+'RespondedExistence(Block Claim 2, Reject Claim)';'RespondedExistence';'Block Claim 2';'Reject Claim';0.504;1.000;1.000
+'Response(Block Claim 2, Reject Claim)';'Response';'Block Claim 2';'Reject Claim';0.504;1.000;1.000
+'AlternateResponse(Block Claim 2, Reject Claim)';'AlternateResponse';'Block Claim 2';'Reject Claim';0.504;1.000;1.000
+'ChainResponse(Block Claim 2, Reject Claim)';'ChainResponse';'Block Claim 2';'Reject Claim';0.502;0.996;0.996
+'RespondedExistence(Block Claim 2, Start Claim)';'RespondedExistence';'Block Claim 2';'Start Claim';0.504;1.000;1.000
+'NotSuccession(Block Claim 2, Start Claim)';'NotSuccession';'Block Claim 2';'Start Claim';1.000;1.000;1.000
+'Precedence(Receive Claim, Block Claim 2)';'Precedence';'Block Claim 2';'Receive Claim';0.504;1.000;1.000
+'AlternatePrecedence(Receive Claim, Block Claim 2)';'AlternatePrecedence';'Block Claim 2';'Receive Claim';0.504;1.000;1.000
+'Precedence(Start Claim, Block Claim 2)';'Precedence';'Block Claim 2';'Start Claim';0.504;1.000;1.000
+'AlternatePrecedence(Start Claim, Block Claim 2)';'AlternatePrecedence';'Block Claim 2';'Start Claim';0.504;1.000;1.000
+'ChainPrecedence(Start Claim, Block Claim 2)';'ChainPrecedence';'Block Claim 2';'Start Claim';0.504;1.000;1.000
+'Absence(Block Claim 3)';'Absence';'Block Claim 3';;0.971;0.971;0.971
+'NotSuccession(Block Claim 3, Accept Claim)';'NotSuccession';'Block Claim 3';'Accept Claim';0.496;1.000;1.000
+'NotCoExistence(Block Claim 3, Accept Claim)';'NotCoExistence';'Block Claim 3';'Accept Claim';0.479;0.965;0.965
+'NotSuccession(Block Claim 3, Block Claim 2)';'NotSuccession';'Block Claim 3';'Block Claim 2';0.533;1.000;1.000
+'NotCoExistence(Block Claim 3, Block Claim 2)';'NotCoExistence';'Block Claim 3';'Block Claim 2';0.533;1.000;1.000
+'NotSuccession(Block Claim 3, Execute Payment)';'NotSuccession';'Block Claim 3';'Execute Payment';0.496;1.000;1.000
+'NotCoExistence(Block Claim 3, Execute Payment)';'NotCoExistence';'Block Claim 3';'Execute Payment';0.479;0.965;0.965
+'NotSuccession(Block Claim 3, Payment Order)';'NotSuccession';'Block Claim 3';'Payment Order';0.496;1.000;1.000
+'NotCoExistence(Block Claim 3, Payment Order)';'NotCoExistence';'Block Claim 3';'Payment Order';0.479;0.965;0.965
+'NotSuccession(Block Claim 3, Receive Claim)';'NotSuccession';'Block Claim 3';'Receive Claim';1.000;1.000;1.000
+'NotCoExistence(Block Claim 3, Receive Claim)';'NotCoExistence';'Block Claim 3';'Receive Claim';0.971;0.971;0.971
+'NotSuccession(Block Claim 3, Reject Claim)';'NotSuccession';'Block Claim 3';'Reject Claim';0.533;1.000;1.000
+'NotCoExistence(Block Claim 3, Reject Claim)';'NotCoExistence';'Block Claim 3';'Reject Claim';0.533;1.000;1.000
+'NotSuccession(Block Claim 3, Start Claim)';'NotSuccession';'Block Claim 3';'Start Claim';1.000;1.000;1.000
+'NotCoExistence(Block Claim 3, Start Claim)';'NotCoExistence';'Block Claim 3';'Start Claim';0.971;0.971;0.971
+'Absence(Correct Claim)';'Absence';'Correct Claim';;0.994;0.994;0.994
+'NotSuccession(Correct Claim, Accept Claim)';'NotSuccession';'Correct Claim';'Accept Claim';0.490;1.000;1.000
+'NotCoExistence(Correct Claim, Accept Claim)';'NotCoExistence';'Correct Claim';'Accept Claim';0.490;1.000;1.000
+'NotSuccession(Correct Claim, Block Claim 2)';'NotSuccession';'Correct Claim';'Block Claim 2';0.504;1.000;1.000
+'NotCoExistence(Correct Claim, Block Claim 2)';'NotCoExistence';'Correct Claim';'Block Claim 2';0.498;0.988;0.988
+'NotSuccession(Correct Claim, Execute Payment)';'NotSuccession';'Correct Claim';'Execute Payment';0.490;1.000;1.000
+'NotCoExistence(Correct Claim, Execute Payment)';'NotCoExistence';'Correct Claim';'Execute Payment';0.490;1.000;1.000
+'NotSuccession(Correct Claim, Payment Order)';'NotSuccession';'Correct Claim';'Payment Order';0.490;1.000;1.000
+'NotCoExistence(Correct Claim, Payment Order)';'NotCoExistence';'Correct Claim';'Payment Order';0.490;1.000;1.000
+'NotSuccession(Correct Claim, Receive Claim)';'NotSuccession';'Correct Claim';'Receive Claim';1.000;1.000;1.000
+'NotCoExistence(Correct Claim, Receive Claim)';'NotCoExistence';'Correct Claim';'Receive Claim';0.994;0.994;0.994
+'NotSuccession(Correct Claim, Reject Claim)';'NotSuccession';'Correct Claim';'Reject Claim';0.502;0.996;0.996
+'NotCoExistence(Correct Claim, Reject Claim)';'NotCoExistence';'Correct Claim';'Reject Claim';0.498;0.988;0.988
+'NotSuccession(Correct Claim, Start Claim)';'NotSuccession';'Correct Claim';'Start Claim';1.000;1.000;1.000
+'NotCoExistence(Correct Claim, Start Claim)';'NotCoExistence';'Correct Claim';'Start Claim';0.994;0.994;0.994
+'Precedence(Accept Claim, Execute Payment)';'Precedence';'Execute Payment';'Accept Claim';0.484;1.000;1.000
+'CoExistence(Execute Payment, Accept Claim)';'CoExistence';'Execute Payment';'Accept Claim';0.484;1.000;1.000
+'RespondedExistence(Execute Payment, Accept Claim)';'RespondedExistence';'Execute Payment';'Accept Claim';0.484;1.000;1.000
+'NotSuccession(Execute Payment, Accept Claim)';'NotSuccession';'Execute Payment';'Accept Claim';0.484;1.000;1.000
+'NotSuccession(Execute Payment, Block Claim 2)';'NotSuccession';'Execute Payment';'Block Claim 2';0.988;1.000;1.000
+'NotCoExistence(Execute Payment, Block Claim 2)';'NotCoExistence';'Execute Payment';'Block Claim 2';0.988;1.000;1.000
+'NotSuccession(Execute Payment, Block Claim 3)';'NotSuccession';'Execute Payment';'Block Claim 3';0.479;0.965;0.965
+'NotCoExistence(Execute Payment, Block Claim 3)';'NotCoExistence';'Execute Payment';'Block Claim 3';0.479;0.965;0.965
+'NotSuccession(Execute Payment, Correct Claim)';'NotSuccession';'Execute Payment';'Correct Claim';0.490;1.000;1.000
+'NotCoExistence(Execute Payment, Correct Claim)';'NotCoExistence';'Execute Payment';'Correct Claim';0.490;1.000;1.000
+'CoExistence(Execute Payment, Payment Order)';'CoExistence';'Execute Payment';'Payment Order';0.484;1.000;1.000
+'RespondedExistence(Execute Payment, Payment Order)';'RespondedExistence';'Execute Payment';'Payment Order';0.484;1.000;1.000
+'RespondedExistence(Execute Payment, Receive Claim)';'RespondedExistence';'Execute Payment';'Receive Claim';0.484;1.000;1.000
+'NotSuccession(Execute Payment, Receive Claim)';'NotSuccession';'Execute Payment';'Receive Claim';1.000;1.000;1.000
+'NotSuccession(Execute Payment, Receive Objection 1)';'NotSuccession';'Execute Payment';'Receive Objection 1';0.482;0.996;0.996
+'NotCoExistence(Execute Payment, Receive Objection 1)';'NotCoExistence';'Execute Payment';'Receive Objection 1';0.482;0.996;0.996
+'NotSuccession(Execute Payment, Receive Objection 2)';'NotSuccession';'Execute Payment';'Receive Objection 2';0.545;1.000;1.000
+'NotCoExistence(Execute Payment, Receive Objection 2)';'NotCoExistence';'Execute Payment';'Receive Objection 2';0.545;1.000;1.000
+'NotSuccession(Execute Payment, Reject Claim)';'NotSuccession';'Execute Payment';'Reject Claim';0.988;1.000;1.000
+'NotCoExistence(Execute Payment, Reject Claim)';'NotCoExistence';'Execute Payment';'Reject Claim';0.988;1.000;1.000
+'RespondedExistence(Execute Payment, Start Claim)';'RespondedExistence';'Execute Payment';'Start Claim';0.484;1.000;1.000
+'NotSuccession(Execute Payment, Start Claim)';'NotSuccession';'Execute Payment';'Start Claim';1.000;1.000;1.000
+'Precedence(Payment Order, Execute Payment)';'Precedence';'Execute Payment';'Payment Order';0.484;1.000;1.000
+'AlternatePrecedence(Payment Order, Execute Payment)';'AlternatePrecedence';'Execute Payment';'Payment Order';0.484;1.000;1.000
+'ChainPrecedence(Payment Order, Execute Payment)';'ChainPrecedence';'Execute Payment';'Payment Order';0.482;0.996;0.996
+'Precedence(Receive Claim, Execute Payment)';'Precedence';'Execute Payment';'Receive Claim';0.484;1.000;1.000
+'Precedence(Start Claim, Execute Payment)';'Precedence';'Execute Payment';'Start Claim';0.484;1.000;1.000
+'Precedence(Accept Claim, Payment Order)';'Precedence';'Payment Order';'Accept Claim';0.484;1.000;1.000
+'CoExistence(Payment Order, Accept Claim)';'CoExistence';'Payment Order';'Accept Claim';0.484;1.000;1.000
+'RespondedExistence(Payment Order, Accept Claim)';'RespondedExistence';'Payment Order';'Accept Claim';0.484;1.000;1.000
+'NotSuccession(Payment Order, Accept Claim)';'NotSuccession';'Payment Order';'Accept Claim';0.484;1.000;1.000
+'NotSuccession(Payment Order, Block Claim 2)';'NotSuccession';'Payment Order';'Block Claim 2';0.988;1.000;1.000
+'NotCoExistence(Payment Order, Block Claim 2)';'NotCoExistence';'Payment Order';'Block Claim 2';0.988;1.000;1.000
+'NotSuccession(Payment Order, Block Claim 3)';'NotSuccession';'Payment Order';'Block Claim 3';0.479;0.965;0.965
+'NotCoExistence(Payment Order, Block Claim 3)';'NotCoExistence';'Payment Order';'Block Claim 3';0.479;0.965;0.965
+'NotSuccession(Payment Order, Correct Claim)';'NotSuccession';'Payment Order';'Correct Claim';0.490;1.000;1.000
+'NotCoExistence(Payment Order, Correct Claim)';'NotCoExistence';'Payment Order';'Correct Claim';0.490;1.000;1.000
+'CoExistence(Payment Order, Execute Payment)';'CoExistence';'Payment Order';'Execute Payment';0.484;1.000;1.000
+'Succession(Payment Order, Execute Payment)';'Succession';'Payment Order';'Execute Payment';0.484;1.000;1.000
+'AlternateSuccession(Payment Order, Execute Payment)';'AlternateSuccession';'Payment Order';'Execute Payment';0.484;1.000;1.000
+'ChainSuccession(Payment Order, Execute Payment)';'ChainSuccession';'Payment Order';'Execute Payment';0.482;0.996;0.996
+'RespondedExistence(Payment Order, Execute Payment)';'RespondedExistence';'Payment Order';'Execute Payment';0.484;1.000;1.000
+'Response(Payment Order, Execute Payment)';'Response';'Payment Order';'Execute Payment';0.484;1.000;1.000
+'AlternateResponse(Payment Order, Execute Payment)';'AlternateResponse';'Payment Order';'Execute Payment';0.484;1.000;1.000
+'ChainResponse(Payment Order, Execute Payment)';'ChainResponse';'Payment Order';'Execute Payment';0.482;0.996;0.996
+'RespondedExistence(Payment Order, Receive Claim)';'RespondedExistence';'Payment Order';'Receive Claim';0.484;1.000;1.000
+'NotSuccession(Payment Order, Receive Claim)';'NotSuccession';'Payment Order';'Receive Claim';1.000;1.000;1.000
+'NotSuccession(Payment Order, Receive Objection 1)';'NotSuccession';'Payment Order';'Receive Objection 1';0.482;0.996;0.996
+'NotCoExistence(Payment Order, Receive Objection 1)';'NotCoExistence';'Payment Order';'Receive Objection 1';0.482;0.996;0.996
+'NotSuccession(Payment Order, Receive Objection 2)';'NotSuccession';'Payment Order';'Receive Objection 2';0.545;1.000;1.000
+'NotCoExistence(Payment Order, Receive Objection 2)';'NotCoExistence';'Payment Order';'Receive Objection 2';0.545;1.000;1.000
+'NotSuccession(Payment Order, Reject Claim)';'NotSuccession';'Payment Order';'Reject Claim';0.988;1.000;1.000
+'NotCoExistence(Payment Order, Reject Claim)';'NotCoExistence';'Payment Order';'Reject Claim';0.988;1.000;1.000
+'RespondedExistence(Payment Order, Start Claim)';'RespondedExistence';'Payment Order';'Start Claim';0.484;1.000;1.000
+'NotSuccession(Payment Order, Start Claim)';'NotSuccession';'Payment Order';'Start Claim';1.000;1.000;1.000
+'Precedence(Receive Claim, Payment Order)';'Precedence';'Payment Order';'Receive Claim';0.484;1.000;1.000
+'Precedence(Start Claim, Payment Order)';'Precedence';'Payment Order';'Start Claim';0.484;1.000;1.000
+'AtMostOne(Receive Claim)';'AtMostOne';'Receive Claim';;1.000;1.000;1.000
+'Init(Receive Claim)';'Init';'Receive Claim';;1.000;1.000;1.000
+'Participation(Receive Claim)';'Participation';'Receive Claim';;1.000;1.000;1.000
+'NotSuccession(Receive Claim, Block Claim 3)';'NotSuccession';'Receive Claim';'Block Claim 3';0.971;0.971;0.971
+'NotCoExistence(Receive Claim, Block Claim 3)';'NotCoExistence';'Receive Claim';'Block Claim 3';0.971;0.971;0.971
+'NotSuccession(Receive Claim, Correct Claim)';'NotSuccession';'Receive Claim';'Correct Claim';0.994;0.994;0.994
+'NotCoExistence(Receive Claim, Correct Claim)';'NotCoExistence';'Receive Claim';'Correct Claim';0.994;0.994;0.994
+'NotSuccession(Receive Claim, Receive Objection 1)';'NotSuccession';'Receive Claim';'Receive Objection 1';0.998;0.998;0.998
+'NotCoExistence(Receive Claim, Receive Objection 1)';'NotCoExistence';'Receive Claim';'Receive Objection 1';0.998;0.998;0.998
+'NotSuccession(Receive Claim, Receive Objection 2)';'NotSuccession';'Receive Claim';'Receive Objection 2';0.940;0.940;0.940
+'NotCoExistence(Receive Claim, Receive Objection 2)';'NotCoExistence';'Receive Claim';'Receive Objection 2';0.940;0.940;0.940
+'CoExistence(Receive Claim, Start Claim)';'CoExistence';'Receive Claim';'Start Claim';1.000;1.000;1.000
+'Succession(Receive Claim, Start Claim)';'Succession';'Receive Claim';'Start Claim';1.000;1.000;1.000
+'AlternateSuccession(Receive Claim, Start Claim)';'AlternateSuccession';'Receive Claim';'Start Claim';1.000;1.000;1.000
+'ChainSuccession(Receive Claim, Start Claim)';'ChainSuccession';'Receive Claim';'Start Claim';1.000;1.000;1.000
+'RespondedExistence(Receive Claim, Start Claim)';'RespondedExistence';'Receive Claim';'Start Claim';1.000;1.000;1.000
+'Response(Receive Claim, Start Claim)';'Response';'Receive Claim';'Start Claim';1.000;1.000;1.000
+'AlternateResponse(Receive Claim, Start Claim)';'AlternateResponse';'Receive Claim';'Start Claim';1.000;1.000;1.000
+'ChainResponse(Receive Claim, Start Claim)';'ChainResponse';'Receive Claim';'Start Claim';1.000;1.000;1.000
+'Absence(Receive Objection 1)';'Absence';'Receive Objection 1';;0.998;0.998;0.998
+'NotSuccession(Receive Objection 1, Accept Claim)';'NotSuccession';'Receive Objection 1';'Accept Claim';0.484;1.000;1.000
+'NotCoExistence(Receive Objection 1, Accept Claim)';'NotCoExistence';'Receive Objection 1';'Accept Claim';0.482;0.996;0.996
+'NotSuccession(Receive Objection 1, Block Claim 2)';'NotSuccession';'Receive Objection 1';'Block Claim 2';0.506;1.000;1.000
+'NotCoExistence(Receive Objection 1, Block Claim 2)';'NotCoExistence';'Receive Objection 1';'Block Claim 2';0.506;1.000;1.000
+'NotSuccession(Receive Objection 1, Execute Payment)';'NotSuccession';'Receive Objection 1';'Execute Payment';0.482;0.996;0.996
+'NotCoExistence(Receive Objection 1, Execute Payment)';'NotCoExistence';'Receive Objection 1';'Execute Payment';0.482;0.996;0.996
+'NotSuccession(Receive Objection 1, Payment Order)';'NotSuccession';'Receive Objection 1';'Payment Order';0.482;0.996;0.996
+'NotCoExistence(Receive Objection 1, Payment Order)';'NotCoExistence';'Receive Objection 1';'Payment Order';0.482;0.996;0.996
+'NotSuccession(Receive Objection 1, Receive Claim)';'NotSuccession';'Receive Objection 1';'Receive Claim';1.000;1.000;1.000
+'NotCoExistence(Receive Objection 1, Receive Claim)';'NotCoExistence';'Receive Objection 1';'Receive Claim';0.998;0.998;0.998
+'NotSuccession(Receive Objection 1, Reject Claim)';'NotSuccession';'Receive Objection 1';'Reject Claim';0.506;1.000;1.000
+'NotCoExistence(Receive Objection 1, Reject Claim)';'NotCoExistence';'Receive Objection 1';'Reject Claim';0.506;1.000;1.000
+'NotSuccession(Receive Objection 1, Start Claim)';'NotSuccession';'Receive Objection 1';'Start Claim';1.000;1.000;1.000
+'NotCoExistence(Receive Objection 1, Start Claim)';'NotCoExistence';'Receive Objection 1';'Start Claim';0.998;0.998;0.998
+'Absence(Receive Objection 2)';'Absence';'Receive Objection 2';;0.940;0.940;0.940
+'NotSuccession(Receive Objection 2, Accept Claim)';'NotSuccession';'Receive Objection 2';'Accept Claim';0.545;1.000;1.000
+'NotCoExistence(Receive Objection 2, Accept Claim)';'NotCoExistence';'Receive Objection 2';'Accept Claim';0.545;1.000;1.000
+'NotSuccession(Receive Objection 2, Block Claim 2)';'NotSuccession';'Receive Objection 2';'Block Claim 2';0.504;1.000;1.000
+'NotSuccession(Receive Objection 2, Execute Payment)';'NotSuccession';'Receive Objection 2';'Execute Payment';0.545;1.000;1.000
+'NotCoExistence(Receive Objection 2, Execute Payment)';'NotCoExistence';'Receive Objection 2';'Execute Payment';0.545;1.000;1.000
+'NotSuccession(Receive Objection 2, Payment Order)';'NotSuccession';'Receive Objection 2';'Payment Order';0.545;1.000;1.000
+'NotCoExistence(Receive Objection 2, Payment Order)';'NotCoExistence';'Receive Objection 2';'Payment Order';0.545;1.000;1.000
+'NotSuccession(Receive Objection 2, Receive Claim)';'NotSuccession';'Receive Objection 2';'Receive Claim';1.000;1.000;1.000
+'NotCoExistence(Receive Objection 2, Receive Claim)';'NotCoExistence';'Receive Objection 2';'Receive Claim';0.940;0.940;0.940
+'NotSuccession(Receive Objection 2, Reject Claim)';'NotSuccession';'Receive Objection 2';'Reject Claim';0.504;1.000;1.000
+'NotSuccession(Receive Objection 2, Start Claim)';'NotSuccession';'Receive Objection 2';'Start Claim';1.000;1.000;1.000
+'NotCoExistence(Receive Objection 2, Start Claim)';'NotCoExistence';'Receive Objection 2';'Start Claim';0.940;0.940;0.940
+'AtMostOne(Reject Claim)';'AtMostOne';'Reject Claim';;0.502;0.996;0.996
+'Precedence(Block Claim 2, Reject Claim)';'Precedence';'Reject Claim';'Block Claim 2';0.504;1.000;1.000
+'AlternatePrecedence(Block Claim 2, Reject Claim)';'AlternatePrecedence';'Reject Claim';'Block Claim 2';0.502;0.996;0.996
+'ChainPrecedence(Block Claim 2, Reject Claim)';'ChainPrecedence';'Reject Claim';'Block Claim 2';0.500;0.992;0.992
+'Precedence(Receive Claim, Reject Claim)';'Precedence';'Reject Claim';'Receive Claim';0.504;1.000;1.000
+'AlternatePrecedence(Receive Claim, Reject Claim)';'AlternatePrecedence';'Reject Claim';'Receive Claim';0.502;0.996;0.996
+'NotSuccession(Reject Claim, Accept Claim)';'NotSuccession';'Reject Claim';'Accept Claim';0.988;1.000;1.000
+'NotCoExistence(Reject Claim, Accept Claim)';'NotCoExistence';'Reject Claim';'Accept Claim';0.988;1.000;1.000
+'CoExistence(Reject Claim, Block Claim 2)';'CoExistence';'Reject Claim';'Block Claim 2';0.504;1.000;1.000
+'RespondedExistence(Reject Claim, Block Claim 2)';'RespondedExistence';'Reject Claim';'Block Claim 2';0.504;1.000;1.000
+'NotSuccession(Reject Claim, Block Claim 2)';'NotSuccession';'Reject Claim';'Block Claim 2';0.504;1.000;1.000
+'NotSuccession(Reject Claim, Block Claim 3)';'NotSuccession';'Reject Claim';'Block Claim 3';0.533;1.000;1.000
+'NotCoExistence(Reject Claim, Block Claim 3)';'NotCoExistence';'Reject Claim';'Block Claim 3';0.533;1.000;1.000
+'NotSuccession(Reject Claim, Correct Claim)';'NotSuccession';'Reject Claim';'Correct Claim';0.500;0.992;0.992
+'NotCoExistence(Reject Claim, Correct Claim)';'NotCoExistence';'Reject Claim';'Correct Claim';0.498;0.988;0.988
+'NotSuccession(Reject Claim, Execute Payment)';'NotSuccession';'Reject Claim';'Execute Payment';0.988;1.000;1.000
+'NotCoExistence(Reject Claim, Execute Payment)';'NotCoExistence';'Reject Claim';'Execute Payment';0.988;1.000;1.000
+'NotSuccession(Reject Claim, Payment Order)';'NotSuccession';'Reject Claim';'Payment Order';0.988;1.000;1.000
+'NotCoExistence(Reject Claim, Payment Order)';'NotCoExistence';'Reject Claim';'Payment Order';0.988;1.000;1.000
+'RespondedExistence(Reject Claim, Receive Claim)';'RespondedExistence';'Reject Claim';'Receive Claim';0.504;1.000;1.000
+'NotSuccession(Reject Claim, Receive Claim)';'NotSuccession';'Reject Claim';'Receive Claim';1.000;1.000;1.000
+'NotSuccession(Reject Claim, Receive Objection 1)';'NotSuccession';'Reject Claim';'Receive Objection 1';0.506;1.000;1.000
+'NotCoExistence(Reject Claim, Receive Objection 1)';'NotCoExistence';'Reject Claim';'Receive Objection 1';0.506;1.000;1.000
+'RespondedExistence(Reject Claim, Start Claim)';'RespondedExistence';'Reject Claim';'Start Claim';0.504;1.000;1.000
+'NotSuccession(Reject Claim, Start Claim)';'NotSuccession';'Reject Claim';'Start Claim';1.000;1.000;1.000
+'Precedence(Start Claim, Reject Claim)';'Precedence';'Reject Claim';'Start Claim';0.504;1.000;1.000
+'AlternatePrecedence(Start Claim, Reject Claim)';'AlternatePrecedence';'Reject Claim';'Start Claim';0.502;0.996;0.996
+'AtMostOne(Start Claim)';'AtMostOne';'Start Claim';;1.000;1.000;1.000
+'Participation(Start Claim)';'Participation';'Start Claim';;1.000;1.000;1.000
+'Precedence(Receive Claim, Start Claim)';'Precedence';'Start Claim';'Receive Claim';1.000;1.000;1.000
+'AlternatePrecedence(Receive Claim, Start Claim)';'AlternatePrecedence';'Start Claim';'Receive Claim';1.000;1.000;1.000
+'ChainPrecedence(Receive Claim, Start Claim)';'ChainPrecedence';'Start Claim';'Receive Claim';1.000;1.000;1.000
+'NotSuccession(Start Claim, Block Claim 3)';'NotSuccession';'Start Claim';'Block Claim 3';0.971;0.971;0.971
+'NotCoExistence(Start Claim, Block Claim 3)';'NotCoExistence';'Start Claim';'Block Claim 3';0.971;0.971;0.971
+'NotSuccession(Start Claim, Correct Claim)';'NotSuccession';'Start Claim';'Correct Claim';0.994;0.994;0.994
+'NotCoExistence(Start Claim, Correct Claim)';'NotCoExistence';'Start Claim';'Correct Claim';0.994;0.994;0.994
+'CoExistence(Start Claim, Receive Claim)';'CoExistence';'Start Claim';'Receive Claim';1.000;1.000;1.000
+'RespondedExistence(Start Claim, Receive Claim)';'RespondedExistence';'Start Claim';'Receive Claim';1.000;1.000;1.000
+'NotSuccession(Start Claim, Receive Claim)';'NotSuccession';'Start Claim';'Receive Claim';1.000;1.000;1.000
+'NotSuccession(Start Claim, Receive Objection 1)';'NotSuccession';'Start Claim';'Receive Objection 1';0.998;0.998;0.998
+'NotCoExistence(Start Claim, Receive Objection 1)';'NotCoExistence';'Start Claim';'Receive Objection 1';0.998;0.998;0.998
+'NotSuccession(Start Claim, Receive Objection 2)';'NotSuccession';'Start Claim';'Receive Objection 2';0.940;0.940;0.940
+'NotCoExistence(Start Claim, Receive Objection 2)';'NotCoExistence';'Start Claim';'Receive Objection 2';0.940;0.940;0.940

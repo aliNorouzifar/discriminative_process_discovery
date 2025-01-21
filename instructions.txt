@@ -1,0 +1,48 @@
+
+cd E:\PADS\Projects\IMr_pos_neg
+
+java -cp MINERful.jar minerful.MinerFulMinerStarter -iLF E:\PADS\Projects\IMr_pos_neg\outputs\test.xes -s 0.01 -c 0.98 -g 0.0 -sT 0.00 -cT 0.00 -gT 0.0 -prune none -oJSON E:\PADS\Projects\IMr_pos_neg\outputs\test.json  -oCSV E:\PADS\Projects\IMr_pos_neg\outputs\test.csv
+
+cd E:\PADS\Projects\IMr_pos_neg\Janus-master
+
+java -cp Janus.jar minerful.JanusMeasurementsStarter -iLF E:\PADS\Projects\IMr_pos_neg\outputs\test.xes -iME json -iMF E:\PADS\Projects\IMr_pos_neg\outputs\test_filtered.json -oCSV E:\PADS\Projects\IMr_pos_neg\outputs\test_stat_csv.csv
+
+---------------------------------------------------------------------------
+
+https://github.com/Oneiroe/Janus/wiki/Measures
+
+
+cd E:\PADS\Projects\declarative process discovery\Janus-master\Janus-master
+
+Janus process discovery
+
+java -cp Janus.jar minerful.JanusOfflineMinerStarter -iLF E:\PADS\Projects\IMr_pos_neg\outputs\test.xes -s 0.1 -c 0.0 -oJSON E:\PADS\Projects\IMr_pos_neg\outputs\test_decl.json -oCSV E:\PADS\Projects\IMr_pos_neg\outputs\test_csv.csv
+
+
+java -cp Janus.jar minerful.JanusMeasurementsStarter -iLF E:\PADS\Projects\IMr_pos_neg\outputs\test.xes -iME json -iMF E:\PADS\Projects\IMr_pos_neg\outputs\test_decl.json -oCSV E:\PADS\Projects\IMr_pos_neg\outputs\test_stat_csv.csv
+
+
+java -cp Janus.jar minerful.JanusMeasurementsStarter 
+-iLF E:\PADS\Projects\process-variants-identification-journal\stepbystep\l2.xes 
+-iME json -iMF E:\PADS\Projects\process-variants-identification-journal\stepbystep\model_merged.json 
+-oJSON E:\PADS\Projects\process-variants-identification-journal\stepbystep\l2_stat_json.json 
+-oCSV E:\PADS\Projects\process-variants-identification-journal\stepbystep\l2_stat_csv.csv
+
+--------------------------------------------
+
+
+0 -> 00 -> Activator: False, Target: False
+1 -> 01 -> Activator: False, Target: true
+2 -> 10 -> Activator: True, Target: False
+3 -> 11 -> Activator: True, Target: True
+
+
+Not chain succession is not included in Janus but might be discovered by Minerful 
+
+--------------------------------------------------------
+
+---------------------------------------
+
+
+java -cp Janus.jar minerful.JanusMeasurementsStarter -iLF E:\PADS\Projects\process-variants-identification-journal\stepbystep\event_log\motive\seg3.xes -iME json -iMF E:\PADS\Projects\process-variants-identification-journal\stepbystep\event_log\motive\constraints_2.json -oCSV E:\PADS\Projects\process-variants-identification-journal\stepbystep\event_log\motive\stat_csv.csv
+

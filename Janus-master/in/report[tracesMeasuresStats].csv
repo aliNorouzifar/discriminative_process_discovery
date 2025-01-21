@@ -1,0 +1,1333 @@
+Constraint;Quality-Measure;Mean;Geometric-Mean;Variance;Population-variance;Standard-Deviation;Max;Min
+AtMostOne(Accept Claim);Support;0.05469628235013569;0.0;0.003237308666627916;0.0032310104007395347;0.05689735201771622;0.1666666716337204;0.0
+AtMostOne(Accept Claim);Confidence;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Accept Claim);Recall;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+AtMostOne(Accept Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+AtMostOne(Accept Claim);Specificity;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+AtMostOne(Accept Claim);Accuracy;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+AtMostOne(Accept Claim);Lift;NaN;NaN;NaN;NaN;NaN;9.999999046325684;5.999999523162842
+AtMostOne(Accept Claim);Leverage;NaN;NaN;NaN;NaN;NaN;0.9900000095367432;0.9722222089767456
+AtMostOne(Accept Claim);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+AtMostOne(Accept Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AtMostOne(Accept Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;0.2777777910232544;0.18000002205371857
+AtMostOne(Accept Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Accept Claim);Coverage;0.05469628235013569;0.0;0.003237308666627916;0.0032310104007395347;0.05689735201771622;0.1666666716337204;0.0
+AtMostOne(Accept Claim);Prevalence;0.5702604846847658;0.3471218779195958;0.19697309177725372;0.19658987564539135;0.4438165068778467;1.0;0.10000000149011612
+AtMostOne(Accept Claim);Added Value;NaN;NaN;NaN;NaN;NaN;0.8999999761581421;0.8333333134651184
+AtMostOne(Accept Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AtMostOne(Accept Claim);Jaccard;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+AtMostOne(Accept Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Accept Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Accept Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;0.34020689129829407;0.2846049964427948
+AtMostOne(Accept Claim);Conviction;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AtMostOne(Accept Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.9899998307228088;0.9722221493721008
+AtMostOne(Accept Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;-2.4146347045898438;-2.692307472229004
+AtMostOne(Accept Claim);Laplace Correction;0.5807393092357697;0.5747709462594007;0.006951240902557167;0.006937717087571647;0.08337410210945104;0.6666666865348816;0.5
+AtMostOne(Accept Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Accept Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;3.321928024291992;2.5849623680114746
+AtMostOne(Accept Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.4308270812034607;0.3321928083896637
+AtMostOne(Accept Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Accept Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Accept Claim);Piatetsky-Shapiro;0.048473588745417774;0.0;0.002530206257754119;0.0025252836774861146;0.05030115563040395;0.1388888955116272;0.0
+AtMostOne(Accept Claim);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Accept Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;2.3025848865509033;1.7917593717575073
+AtMostOne(Accept Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AtMostOne(Accept Claim);Least Contradiction;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+AtMostOne(Accept Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AtMostOne(Accept Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Accept Claim);Zhang;NaN;NaN;NaN;NaN;NaN;1.0000001192092896;1.0
+AtMostOne(Receive Claim);Support;1.9455253208193747E-4;0.0;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.10000000149011612;0.0
+AtMostOne(Receive Claim);Confidence;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Receive Claim);Recall;0.0019455252918287945;0.0;0.0019455252918287942;0.0019417402231676486;0.044108109139123094;1.0;0.0
+AtMostOne(Receive Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+AtMostOne(Receive Claim);Specificity;0.0019455252918287945;0.0;0.0019455252918287942;0.0019417402231676486;0.044108109139123094;1.0;0.0
+AtMostOne(Receive Claim);Accuracy;0.0019455252918287945;0.0;0.0019455252918287942;0.0019417402231676486;0.044108109139123094;1.0;0.0
+AtMostOne(Receive Claim);Lift;NaN;NaN;NaN;NaN;NaN;9.999999046325684;9.999999046325684
+AtMostOne(Receive Claim);Leverage;NaN;NaN;NaN;NaN;NaN;0.9900000095367432;0.9900000095367432
+AtMostOne(Receive Claim);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+AtMostOne(Receive Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AtMostOne(Receive Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;0.18000002205371857;0.18000002205371857
+AtMostOne(Receive Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Receive Claim);Coverage;1.9455253208193747E-4;0.0;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.10000000149011612;0.0
+AtMostOne(Receive Claim);Prevalence;0.998249027240253;0.9955302815515448;0.0015758754811630153;0.0015728095755576396;0.03969729815948455;1.0;0.10000000149011612
+AtMostOne(Receive Claim);Added Value;NaN;NaN;NaN;NaN;NaN;0.8999999761581421;0.8999999761581421
+AtMostOne(Receive Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AtMostOne(Receive Claim);Jaccard;0.0019455252918287945;0.0;0.0019455252918287942;0.0019417402231676486;0.044108109139123094;1.0;0.0
+AtMostOne(Receive Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Receive Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Receive Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;0.2846049964427948;0.2846049964427948
+AtMostOne(Receive Claim);Conviction;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AtMostOne(Receive Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.9899998307228088;0.9899998307228088
+AtMostOne(Receive Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;-2.4146347045898438;-2.4146347045898438
+AtMostOne(Receive Claim);Laplace Correction;0.5003242542539588;0.500279924731592;5.404238210217235E-5;5.3937241280961894E-5;0.007351352399536588;0.6666666865348816;0.5
+AtMostOne(Receive Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Receive Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;3.321928024291992;3.321928024291992
+AtMostOne(Receive Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.3321928083896637;0.3321928083896637
+AtMostOne(Receive Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Receive Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Receive Claim);Piatetsky-Shapiro;1.7509728322233204E-4;0.0;1.575875611620656E-5;1.5728097057614718E-5;0.003969729980263967;0.09000000357627869;0.0
+AtMostOne(Receive Claim);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Receive Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;2.3025848865509033;2.3025848865509033
+AtMostOne(Receive Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AtMostOne(Receive Claim);Least Contradiction;0.0019455252918287945;0.0;0.0019455252918287942;0.0019417402231676486;0.044108109139123094;1.0;0.0
+AtMostOne(Receive Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AtMostOne(Receive Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AtMostOne(Receive Claim);Zhang;NaN;NaN;NaN;NaN;NaN;1.0000001192092896;1.0000001192092896
+Init(Receive Claim);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Init(Receive Claim);Confidence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Init(Receive Claim);Recall;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Init(Receive Claim);Lovinger;1.945525755678169E-4;0.0;1.945526219527657E-5;1.9417411490616497E-5;0.0044108119655315815;0.10000002384185791;0.0
+Init(Receive Claim);Specificity;0.9997838306519773;0.9997708765229291;2.401880213064929E-5;2.397207294362468E-5;0.004900898094293462;1.0;0.888888955116272
+Init(Receive Claim);Accuracy;0.8186500254540132;0.8157908595834545;0.00466041832998339;0.004651351368251904;0.06826725664609198;0.8888888955116272;0.6666666865348816
+Init(Receive Claim);Lift;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Init(Receive Claim);Leverage;-1.945525429534078E-5;NaN;1.9455255672393697E-7;1.941740498042406E-7;4.410811226111779E-4;0.0;-0.010000000707805157
+Init(Receive Claim);Compliance;0.8188445772178445;0.8159778184595796;0.0046726028233204505;0.00466351215634901;0.06835643951611618;0.8999999761581421;0.6666666269302368
+Init(Receive Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Init(Receive Claim);Gini Index;4.3282423943918965E-6;NaN;9.608638557439613E-9;9.589944708106071E-9;9.802366325250048E-5;0.00222235475666821;-1.4901161193847656E-8
+Init(Receive Claim);Certainty factor;-2.1616949297574694E-4;NaN;2.401883434240326E-5;2.3972105092709868E-5;0.0049009013806037005;0.0;-0.111111119389534
+Init(Receive Claim);Coverage;0.1811554266379038;0.16785756006903088;0.004672602283089285;0.004663511617168878;0.0683564355645413;0.3333333432674408;0.10000000149011612
+Init(Receive Claim);Prevalence;1.9455253208193747E-4;0.0;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.10000000149011612;0.0
+Init(Receive Claim);Added Value;-1.9455253208193747E-4;NaN;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.0;-0.10000000149011612
+Init(Receive Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Init(Receive Claim);Jaccard;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Init(Receive Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;-1.0;-1.0
+Init(Receive Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;-1.0;-1.0
+Init(Receive Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;-0.0;-0.0
+Init(Receive Claim);Conviction;0.9998054474244322;0.9997950394077815;1.9455262195276635E-5;1.9417411490616565E-5;0.0044108119655315884;1.0;0.8999999761581421
+Init(Receive Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;-0.0;-0.0
+Init(Receive Claim);Collective Strength;3.396203187267806E38;2.8664906363550512E38;2.252764113498522E74;2.2483813039391865E74;1.5009210883649153E37;3.4028234663852886E38;1.7560994625091553
+Init(Receive Claim);Laplace Correction;0.3333333432674408;0.33333334326743985;0.0;0.0;0.0;0.3333333432674408;0.3333333432674408
+Init(Receive Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Init(Receive Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Init(Receive Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Init(Receive Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Init(Receive Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;-0.111111119389534;-0.111111119389534
+Init(Receive Claim);Piatetsky-Shapiro;-1.945525429534078E-5;NaN;1.9455255672393697E-7;1.941740498042406E-7;4.410811226111779E-4;0.0;-0.010000000707805157
+Init(Receive Claim);Cosine;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Init(Receive Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+Init(Receive Claim);Sebag-Schoenauer;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Init(Receive Claim);Least Contradiction;-0.0019455252918287945;NaN;0.0019455252918287942;0.0019417402231676486;0.044108109139123094;1.401298464324817E-45;-1.0
+Init(Receive Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Init(Receive Claim);Example and Counterexample Rate;1.401298464324817E-45;1.4012984643243482E-45;0.0;0.0;0.0;1.401298464324817E-45;1.401298464324817E-45
+Init(Receive Claim);Zhang;NaN;NaN;NaN;NaN;NaN;-1.0;-1.0
+AtMostOne(Start Claim);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AtMostOne(Start Claim);Confidence;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Recall;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AtMostOne(Start Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Specificity;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AtMostOne(Start Claim);Accuracy;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AtMostOne(Start Claim);Lift;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Leverage;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+AtMostOne(Start Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Coverage;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AtMostOne(Start Claim);Prevalence;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+AtMostOne(Start Claim);Added Value;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Jaccard;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AtMostOne(Start Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Conviction;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Laplace Correction;0.5;0.4999999999999992;0.0;0.0;0.0;0.5;0.5
+AtMostOne(Start Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Piatetsky-Shapiro;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AtMostOne(Start Claim);Cosine;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Least Contradiction;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AtMostOne(Start Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AtMostOne(Start Claim);Zhang;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Participation(Start Claim);Confidence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Participation(Start Claim);Recall;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Lovinger;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Participation(Start Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+Participation(Start Claim);Accuracy;0.8188445779136181;0.815977819311184;0.004672602611144754;0.004663511944586107;0.06835643796413586;0.8999999761581421;0.6666666865348816
+Participation(Start Claim);Lift;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Leverage;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Participation(Start Claim);Compliance;0.8188445772178445;0.8159778184595796;0.0046726028233204505;0.00466351215634901;0.06835643951611618;0.8999999761581421;0.6666666269302368
+Participation(Start Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Gini Index;4.5515219988989935E-9;NaN;3.507904258675993E-17;3.5010795422194245E-17;5.922756333562941E-9;2.9802322387695312E-8;-2.2351741790771484E-8
+Participation(Start Claim);Certainty factor;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Participation(Start Claim);Coverage;0.1811554266379038;0.16785756006903088;0.004672602283089285;0.004663511617168878;0.0683564355645413;0.3333333432674408;0.10000000149011612
+Participation(Start Claim);Prevalence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Participation(Start Claim);Added Value;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Participation(Start Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Jaccard;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Participation(Start Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Conviction;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+Participation(Start Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Collective Strength;3.4028234663852886E38;3.4028234663859614E38;0.0;0.0;0.0;3.4028234663852886E38;3.4028234663852886E38
+Participation(Start Claim);Laplace Correction;0.3333333432674408;0.33333334326743985;0.0;0.0;0.0;0.3333333432674408;0.3333333432674408
+Participation(Start Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Piatetsky-Shapiro;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Participation(Start Claim);Cosine;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Sebag-Schoenauer;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Participation(Start Claim);Least Contradiction;1.401298464324817E-45;1.4012984643243482E-45;0.0;0.0;0.0;1.401298464324817E-45;1.401298464324817E-45
+Participation(Start Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Participation(Start Claim);Example and Counterexample Rate;1.401298464324817E-45;1.4012984643243482E-45;0.0;0.0;0.0;1.401298464324817E-45;1.401298464324817E-45
+Participation(Start Claim);Zhang;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Execute Payment);Support;0.21335387113957088;0.0;0.04873718477112546;0.0486423653455007;0.22076499897204144;0.4444444477558136;0.0
+Succession(Accept Claim,Execute Payment);Confidence;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Succession(Accept Claim,Execute Payment);Recall;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Succession(Accept Claim,Execute Payment);Lovinger;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+Succession(Accept Claim,Execute Payment);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+Succession(Accept Claim,Execute Payment);Accuracy;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+Succession(Accept Claim,Execute Payment);Lift;NaN;NaN;NaN;NaN;NaN;2.999999761581421;2.25
+Succession(Accept Claim,Execute Payment);Leverage;NaN;NaN;NaN;NaN;NaN;0.8888888955116272;0.8024691343307495
+Succession(Accept Claim,Execute Payment);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+Succession(Accept Claim,Execute Payment);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+Succession(Accept Claim,Execute Payment);Gini Index;NaN;NaN;NaN;NaN;NaN;0.4938271641731262;0.4444444477558136
+Succession(Accept Claim,Execute Payment);Certainty factor;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Succession(Accept Claim,Execute Payment);Coverage;0.21335387113957088;0.0;0.04873718477112546;0.0486423653455007;0.22076499897204144;0.4444444477558136;0.0
+Succession(Accept Claim,Execute Payment);Prevalence;0.21335387113957088;0.0;0.04873718477112546;0.0486423653455007;0.22076499897204144;0.4444444477558136;0.0
+Succession(Accept Claim,Execute Payment);Added Value;NaN;NaN;NaN;NaN;NaN;0.6666666269302368;0.5555555820465088
+Succession(Accept Claim,Execute Payment);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+Succession(Accept Claim,Execute Payment);Jaccard;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Succession(Accept Claim,Execute Payment);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Succession(Accept Claim,Execute Payment);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Succession(Accept Claim,Execute Payment);Klosgen;NaN;NaN;NaN;NaN;NaN;0.38490015268325806;0.37037038803100586
+Succession(Accept Claim,Execute Payment);Conviction;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+Succession(Accept Claim,Execute Payment);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.8888887763023376;0.8024691343307495
+Succession(Accept Claim,Execute Payment);Collective Strength;NaN;NaN;NaN;NaN;NaN;-3.170731544494629;-3.2352943420410156
+Succession(Accept Claim,Execute Payment);Laplace Correction;0.6601167222637145;0.6392854276144416;0.027444557532531194;0.027391163451728606;0.165663989848522;0.8333333134651184;0.5
+Succession(Accept Claim,Execute Payment);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Execute Payment);One-way Support;NaN;NaN;NaN;NaN;NaN;1.5849623680114746;1.1699249744415283
+Succession(Accept Claim,Execute Payment);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.5306390523910522;0.5199666619300842
+Succession(Accept Claim,Execute Payment);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Execute Payment);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+Succession(Accept Claim,Execute Payment);Piatetsky-Shapiro;0.11919163210962533;0.0;0.015158533187216348;0.015129041877513594;0.12311999507479014;0.2469135820865631;0.0
+Succession(Accept Claim,Execute Payment);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Succession(Accept Claim,Execute Payment);Information Gain;NaN;NaN;NaN;NaN;NaN;1.0986121892929077;0.8109301924705505
+Succession(Accept Claim,Execute Payment);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+Succession(Accept Claim,Execute Payment);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Succession(Accept Claim,Execute Payment);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+Succession(Accept Claim,Execute Payment);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Succession(Accept Claim,Execute Payment);Zhang;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+Succession(Accept Claim,Payment Order);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Succession(Accept Claim,Payment Order);Confidence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Succession(Accept Claim,Payment Order);Recall;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Lovinger;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Succession(Accept Claim,Payment Order);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+Succession(Accept Claim,Payment Order);Accuracy;0.7641482997961081;0.7637920549702993;5.238720076333231E-4;5.228528013927913E-4;0.02288825042752991;0.800000011920929;0.6666666865348816
+Succession(Accept Claim,Payment Order);Lift;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Leverage;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Succession(Accept Claim,Payment Order);Compliance;0.7641482981726351;0.763792053110306;5.238723247679097E-4;5.228531179103846E-4;0.022888257355419387;0.800000011920929;0.6666666269302368
+Succession(Accept Claim,Payment Order);Odds Ratio;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Gini Index;8.784147552015264E-9;0.0;6.595688625220181E-17;6.582856546182788E-17;8.121384503408382E-9;2.9802322387695312E-8;0.0
+Succession(Accept Claim,Payment Order);Certainty factor;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Succession(Accept Claim,Payment Order);Coverage;0.23585170898803937;0.23483921074061667;5.238719019818406E-4;5.228526959468565E-4;0.022888248119544683;0.3333333432674408;0.20000000298023224
+Succession(Accept Claim,Payment Order);Prevalence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Succession(Accept Claim,Payment Order);Added Value;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Succession(Accept Claim,Payment Order);Relative Risk;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Jaccard;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Succession(Accept Claim,Payment Order);Ylue Q;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Ylue Y;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Klosgen;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Conviction;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+Succession(Accept Claim,Payment Order);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Collective Strength;3.4028234663852886E38;3.4028234663859614E38;0.0;0.0;0.0;3.4028234663852886E38;3.4028234663852886E38
+Succession(Accept Claim,Payment Order);Laplace Correction;0.29296368864955596;0.2899705921435024;0.0017378102256392918;0.0017344292718929118;0.04168705105472552;0.3333333432674408;0.25
+Succession(Accept Claim,Payment Order);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Piatetsky-Shapiro;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Succession(Accept Claim,Payment Order);Cosine;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Information Gain;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Sebag-Schoenauer;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Succession(Accept Claim,Payment Order);Least Contradiction;1.401298464324817E-45;1.4012984643243482E-45;0.0;0.0;0.0;1.401298464324817E-45;1.401298464324817E-45
+Succession(Accept Claim,Payment Order);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Accept Claim,Payment Order);Example and Counterexample Rate;1.401298464324817E-45;1.4012984643243482E-45;0.0;0.0;0.0;1.401298464324817E-45;1.401298464324817E-45
+Succession(Accept Claim,Payment Order);Zhang;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Accept Claim,Receive Claim);Support;0.054501729818053714;0.0;0.003239101651192268;0.003232799897007069;0.05691310614605627;0.1666666716337204;0.0
+NotSuccession(Accept Claim,Receive Claim);Confidence;NaN;NaN;NaN;NaN;NaN;1.0;0.0
+NotSuccession(Accept Claim,Receive Claim);Recall;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Receive Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;0.0
+NotSuccession(Accept Claim,Receive Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Accept Claim,Receive Claim);Accuracy;0.9996108949648261;0.9995659628275986;7.782100239616501E-5;7.76695996677678E-5;0.00882162130201501;1.0;0.800000011920929
+NotSuccession(Accept Claim,Receive Claim);Lift;NaN;NaN;NaN;NaN;NaN;9.0;5.999999523162842
+NotSuccession(Accept Claim,Receive Claim);Leverage;NaN;NaN;NaN;NaN;NaN;0.9876543283462524;0.0
+NotSuccession(Accept Claim,Receive Claim);Compliance;0.9996108949648261;0.9995659628275986;7.782100239616501E-5;7.76695996677678E-5;0.00882162130201501;1.0;0.800000011920929
+NotSuccession(Accept Claim,Receive Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Accept Claim,Receive Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;0.2777777910232544;1.4901161193847656E-8
+NotSuccession(Accept Claim,Receive Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;1.0;0.0
+NotSuccession(Accept Claim,Receive Claim);Coverage;0.05489083488221765;0.0;0.00327442618905976;0.003268055710092718;0.057222602082217126;0.20000000298023224;0.0
+NotSuccession(Accept Claim,Receive Claim);Prevalence;0.054501729818053714;0.0;0.003239101651192268;0.003232799897007069;0.05691310614605627;0.1666666716337204;0.0
+NotSuccession(Accept Claim,Receive Claim);Added Value;NaN;NaN;NaN;NaN;NaN;0.8888888955116272;0.0
+NotSuccession(Accept Claim,Receive Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Accept Claim,Receive Claim);Jaccard;NaN;NaN;NaN;NaN;NaN;1.0;0.0
+NotSuccession(Accept Claim,Receive Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Receive Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Receive Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;0.34020689129829407;0.29629629850387573
+NotSuccession(Accept Claim,Receive Claim);Conviction;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;1.0
+NotSuccession(Accept Claim,Receive Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.9876543283462524;0.9722221493721008
+NotSuccession(Accept Claim,Receive Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;-2.692307472229004
+NotSuccession(Accept Claim,Receive Claim);Laplace Correction;0.579928673658853;0.5736751979460127;0.007149422601708106;0.00713551321921451;0.08455425832983283;0.6666666865348816;0.25
+NotSuccession(Accept Claim,Receive Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Accept Claim,Receive Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;3.1699249744415283;2.5849623680114746
+NotSuccession(Accept Claim,Receive Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.4308270812034607;0.35221388936042786
+NotSuccession(Accept Claim,Receive Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Accept Claim,Receive Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Receive Claim);Piatetsky-Shapiro;0.04829849146219547;0.0;0.002531394341420859;0.0025264694497060328;0.050312963949869415;0.1388888955116272;0.0
+NotSuccession(Accept Claim,Receive Claim);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Receive Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;2.1972246170043945;1.7917593717575073
+NotSuccession(Accept Claim,Receive Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;0.0
+NotSuccession(Accept Claim,Receive Claim);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.0;1.401298464324817E-45
+NotSuccession(Accept Claim,Receive Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Accept Claim,Receive Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.0;1.401298464324817E-45
+NotSuccession(Accept Claim,Receive Claim);Zhang;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Support;0.05469628235013569;0.0;0.003237308666627916;0.0032310104007395347;0.05689735201771622;0.1666666716337204;0.0
+NotSuccession(Accept Claim,Start Claim);Confidence;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Recall;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+NotSuccession(Accept Claim,Start Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Accuracy;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Lift;NaN;NaN;NaN;NaN;NaN;9.999999046325684;5.999999523162842
+NotSuccession(Accept Claim,Start Claim);Leverage;NaN;NaN;NaN;NaN;NaN;0.9900000095367432;0.9722222089767456
+NotSuccession(Accept Claim,Start Claim);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Accept Claim,Start Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;0.2777777910232544;0.18000002205371857
+NotSuccession(Accept Claim,Start Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Coverage;0.05469628235013569;0.0;0.003237308666627916;0.0032310104007395347;0.05689735201771622;0.1666666716337204;0.0
+NotSuccession(Accept Claim,Start Claim);Prevalence;0.05469628235013569;0.0;0.003237308666627916;0.0032310104007395347;0.05689735201771622;0.1666666716337204;0.0
+NotSuccession(Accept Claim,Start Claim);Added Value;NaN;NaN;NaN;NaN;NaN;0.8999999761581421;0.8333333134651184
+NotSuccession(Accept Claim,Start Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Accept Claim,Start Claim);Jaccard;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;0.34020689129829407;0.2846049964427948
+NotSuccession(Accept Claim,Start Claim);Conviction;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Accept Claim,Start Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.9899998307228088;0.9722221493721008
+NotSuccession(Accept Claim,Start Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;-2.4146347045898438;-2.692307472229004
+NotSuccession(Accept Claim,Start Claim);Laplace Correction;0.5807393092357697;0.5747709462594007;0.006951240902557167;0.006937717087571647;0.08337410210945104;0.6666666865348816;0.5
+NotSuccession(Accept Claim,Start Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Accept Claim,Start Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;3.321928024291992;2.5849623680114746
+NotSuccession(Accept Claim,Start Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.4308270812034607;0.3321928083896637
+NotSuccession(Accept Claim,Start Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Accept Claim,Start Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Piatetsky-Shapiro;0.048473588745417774;0.0;0.002530206257754119;0.0025252836774861146;0.05030115563040395;0.1388888955116272;0.0
+NotSuccession(Accept Claim,Start Claim);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;2.3025848865509033;1.7917593717575073
+NotSuccession(Accept Claim,Start Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Accept Claim,Start Claim);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Accept Claim,Start Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Accept Claim,Start Claim);Zhang;NaN;NaN;NaN;NaN;NaN;1.0000001192092896;1.0
+CoExistence(Execute Payment,Accept Claim);Support;0.21335387113957088;0.0;0.04873718477112546;0.0486423653455007;0.22076499897204144;0.4444444477558136;0.0
+CoExistence(Execute Payment,Accept Claim);Confidence;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Execute Payment,Accept Claim);Recall;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Execute Payment,Accept Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+CoExistence(Execute Payment,Accept Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+CoExistence(Execute Payment,Accept Claim);Accuracy;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+CoExistence(Execute Payment,Accept Claim);Lift;NaN;NaN;NaN;NaN;NaN;2.999999761581421;2.25
+CoExistence(Execute Payment,Accept Claim);Leverage;NaN;NaN;NaN;NaN;NaN;0.8888888955116272;0.8024691343307495
+CoExistence(Execute Payment,Accept Claim);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+CoExistence(Execute Payment,Accept Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+CoExistence(Execute Payment,Accept Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;0.4938271641731262;0.4444444477558136
+CoExistence(Execute Payment,Accept Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Execute Payment,Accept Claim);Coverage;0.21335387113957088;0.0;0.04873718477112546;0.0486423653455007;0.22076499897204144;0.4444444477558136;0.0
+CoExistence(Execute Payment,Accept Claim);Prevalence;0.21335387113957088;0.0;0.04873718477112546;0.0486423653455007;0.22076499897204144;0.4444444477558136;0.0
+CoExistence(Execute Payment,Accept Claim);Added Value;NaN;NaN;NaN;NaN;NaN;0.6666666269302368;0.5555555820465088
+CoExistence(Execute Payment,Accept Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+CoExistence(Execute Payment,Accept Claim);Jaccard;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Execute Payment,Accept Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Execute Payment,Accept Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Execute Payment,Accept Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;0.38490015268325806;0.37037038803100586
+CoExistence(Execute Payment,Accept Claim);Conviction;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+CoExistence(Execute Payment,Accept Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.8888887763023376;0.8024691343307495
+CoExistence(Execute Payment,Accept Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;-3.170731544494629;-3.2352943420410156
+CoExistence(Execute Payment,Accept Claim);Laplace Correction;0.6601167222637145;0.6392854276144416;0.027444557532531194;0.027391163451728606;0.165663989848522;0.8333333134651184;0.5
+CoExistence(Execute Payment,Accept Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Execute Payment,Accept Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;1.5849623680114746;1.1699249744415283
+CoExistence(Execute Payment,Accept Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.5306390523910522;0.5199666619300842
+CoExistence(Execute Payment,Accept Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Execute Payment,Accept Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+CoExistence(Execute Payment,Accept Claim);Piatetsky-Shapiro;0.11919163210962533;0.0;0.015158533187216348;0.015129041877513594;0.12311999507479014;0.2469135820865631;0.0
+CoExistence(Execute Payment,Accept Claim);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Execute Payment,Accept Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;1.0986121892929077;0.8109301924705505
+CoExistence(Execute Payment,Accept Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+CoExistence(Execute Payment,Accept Claim);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Execute Payment,Accept Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+CoExistence(Execute Payment,Accept Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Execute Payment,Accept Claim);Zhang;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+NotSuccession(Execute Payment,Accept Claim);Support;0.21335387113957088;0.0;0.04873718477112546;0.0486423653455007;0.22076499897204144;0.4444444477558136;0.0
+NotSuccession(Execute Payment,Accept Claim);Confidence;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Accept Claim);Recall;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Accept Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+NotSuccession(Execute Payment,Accept Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Execute Payment,Accept Claim);Accuracy;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Execute Payment,Accept Claim);Lift;NaN;NaN;NaN;NaN;NaN;2.999999761581421;2.25
+NotSuccession(Execute Payment,Accept Claim);Leverage;NaN;NaN;NaN;NaN;NaN;0.8888888955116272;0.8024691343307495
+NotSuccession(Execute Payment,Accept Claim);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Execute Payment,Accept Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Execute Payment,Accept Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;0.4938271641731262;0.4444444477558136
+NotSuccession(Execute Payment,Accept Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Accept Claim);Coverage;0.21335387113957088;0.0;0.04873718477112546;0.0486423653455007;0.22076499897204144;0.4444444477558136;0.0
+NotSuccession(Execute Payment,Accept Claim);Prevalence;0.21335387113957088;0.0;0.04873718477112546;0.0486423653455007;0.22076499897204144;0.4444444477558136;0.0
+NotSuccession(Execute Payment,Accept Claim);Added Value;NaN;NaN;NaN;NaN;NaN;0.6666666269302368;0.5555555820465088
+NotSuccession(Execute Payment,Accept Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Execute Payment,Accept Claim);Jaccard;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Accept Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Accept Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Accept Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;0.38490015268325806;0.37037038803100586
+NotSuccession(Execute Payment,Accept Claim);Conviction;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Execute Payment,Accept Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.8888887763023376;0.8024691343307495
+NotSuccession(Execute Payment,Accept Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;-3.170731544494629;-3.2352943420410156
+NotSuccession(Execute Payment,Accept Claim);Laplace Correction;0.6601167222637145;0.6392854276144416;0.027444557532531194;0.027391163451728606;0.165663989848522;0.8333333134651184;0.5
+NotSuccession(Execute Payment,Accept Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Execute Payment,Accept Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;1.5849623680114746;1.1699249744415283
+NotSuccession(Execute Payment,Accept Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.5306390523910522;0.5199666619300842
+NotSuccession(Execute Payment,Accept Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Execute Payment,Accept Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+NotSuccession(Execute Payment,Accept Claim);Piatetsky-Shapiro;0.11919163210962533;0.0;0.015158533187216348;0.015129041877513594;0.12311999507479014;0.2469135820865631;0.0
+NotSuccession(Execute Payment,Accept Claim);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Accept Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;1.0986121892929077;0.8109301924705505
+NotSuccession(Execute Payment,Accept Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Execute Payment,Accept Claim);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Accept Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Execute Payment,Accept Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Accept Claim);Zhang;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+CoExistence(Execute Payment,Payment Order);Support;0.21335387113957088;0.0;0.04873718477112546;0.0486423653455007;0.22076499897204144;0.4444444477558136;0.0
+CoExistence(Execute Payment,Payment Order);Confidence;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+CoExistence(Execute Payment,Payment Order);Recall;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Execute Payment,Payment Order);Lovinger;6.788391393324505E-46;0.0;4.913896774260973E-91;4.9043366638052116E-91;7.009919239378562E-46;1.401298464324817E-45;0.0
+CoExistence(Execute Payment,Payment Order);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+CoExistence(Execute Payment,Payment Order);Accuracy;0.8735408570747896;0.8647638373645066;0.015295949703703892;0.015266191046692796;0.12367679533244663;1.0;0.6666666865348816
+CoExistence(Execute Payment,Payment Order);Lift;NaN;NaN;NaN;NaN;NaN;2.999999761581421;2.25
+CoExistence(Execute Payment,Payment Order);Leverage;0.39027355883835846;0.0;0.1625373362222167;0.16222111572372988;0.40315919463930955;0.8888888955116272;0.0
+CoExistence(Execute Payment,Payment Order);Compliance;0.8735408563790154;0.8647638364619862;0.015295949992140455;0.015266191334568196;0.12367679649853668;1.0;0.6666666269302368
+CoExistence(Execute Payment,Payment Order);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+CoExistence(Execute Payment,Payment Order);Gini Index;0.23838326558180825;0.0;0.06063413209797728;0.060516166860432576;0.24623998882792633;0.4938271641731262;0.0
+CoExistence(Execute Payment,Payment Order);Certainty factor;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+CoExistence(Execute Payment,Payment Order);Coverage;0.3398130154273389;0.3248418348761113;0.009966851497453102;0.009947460735784905;0.09983411990623797;0.4444444477558136;0.20000000298023224
+CoExistence(Execute Payment,Payment Order);Prevalence;0.21335387113957088;0.0;0.04873718477112546;0.0486423653455007;0.22076499897204144;0.4444444477558136;0.0
+CoExistence(Execute Payment,Payment Order);Added Value;0.2710819399774306;0.0;0.07855772777463016;0.07840489172837602;0.28028151522109007;0.6666666269302368;0.0
+CoExistence(Execute Payment,Payment Order);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+CoExistence(Execute Payment,Payment Order);Jaccard;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+CoExistence(Execute Payment,Payment Order);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Execute Payment,Payment Order);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Execute Payment,Payment Order);Klosgen;NaN;NaN;NaN;NaN;NaN;0.38490015268325806;0.37037038803100586
+CoExistence(Execute Payment,Payment Order);Conviction;1.6484495002527954E38;4.6366291847697009E18;2.8976343085614E76;2.8919968877276225E76;1.702243903957773E38;3.4028234663852886E38;1.0
+CoExistence(Execute Payment,Payment Order);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.8888887763023376;0.8024691343307495
+CoExistence(Execute Payment,Payment Order);Collective Strength;1.7543739661324916E38;NaN;2.897634308561401E76;2.8919968877276235E76;1.7022439039577733E38;3.4028234663852886E38;-3.2352943420410156
+CoExistence(Execute Payment,Payment Order);Laplace Correction;0.574189360329613;0.5186907009337829;0.06196625005621636;0.061845693149492204;0.24893021121634948;0.8333333134651184;0.3333333432674408
+CoExistence(Execute Payment,Payment Order);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Execute Payment,Payment Order);One-way Support;NaN;NaN;NaN;NaN;NaN;1.5849623680114746;1.1699249744415283
+CoExistence(Execute Payment,Payment Order);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.5306390523910522;0.5199666619300842
+CoExistence(Execute Payment,Payment Order);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Execute Payment,Payment Order);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+CoExistence(Execute Payment,Payment Order);Piatetsky-Shapiro;0.11919163210962533;0.0;0.015158533187216348;0.015129041877513594;0.12311999507479014;0.2469135820865631;0.0
+CoExistence(Execute Payment,Payment Order);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Execute Payment,Payment Order);Information Gain;NaN;NaN;NaN;NaN;NaN;1.0986121892929077;0.8109301924705505
+CoExistence(Execute Payment,Payment Order);Sebag-Schoenauer;1.6484495002527954E38;0.0;2.8976343085614E76;2.8919968877276225E76;1.702243903957773E38;3.4028234663852886E38;0.0
+CoExistence(Execute Payment,Payment Order);Least Contradiction;0.4844357976653698;7.501650914259986E-24;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;1.401298464324817E-45
+CoExistence(Execute Payment,Payment Order);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+CoExistence(Execute Payment,Payment Order);Example and Counterexample Rate;0.4844357976653698;7.501650914259986E-24;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;1.401298464324817E-45
+CoExistence(Execute Payment,Payment Order);Zhang;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+NotSuccession(Execute Payment,Receive Claim);Support;0.15826848718964645;0.0;0.027241983545777632;0.02718898357778974;0.16505145726644654;0.3333333432674408;0.0
+NotSuccession(Execute Payment,Receive Claim);Confidence;NaN;NaN;NaN;NaN;NaN;1.0;0.25
+NotSuccession(Execute Payment,Receive Claim);Recall;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Receive Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;-0.19999992847442627
+NotSuccession(Execute Payment,Receive Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Execute Payment,Receive Claim);Accuracy;0.9994163425052214;0.9993063207149312;1.7509722060267025E-4;1.7475656453145883E-4;0.013232430638498365;1.0;0.7000000476837158
+NotSuccession(Execute Payment,Receive Claim);Lift;NaN;NaN;NaN;NaN;NaN;5.999999523162842;2.499999761581421
+NotSuccession(Execute Payment,Receive Claim);Leverage;NaN;NaN;NaN;NaN;NaN;0.9722222089767456;0.20999999344348907
+NotSuccession(Execute Payment,Receive Claim);Compliance;0.9994163423892585;0.9993063205493856;1.7509729018007345E-4;1.7475663397349743E-4;0.013232433267546579;1.0;0.699999988079071
+NotSuccession(Execute Payment,Receive Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Execute Payment,Receive Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;0.4444444477558136;0.030000070109963417
+NotSuccession(Execute Payment,Receive Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;1.0;0.1666666716337204
+NotSuccession(Execute Payment,Receive Claim);Coverage;0.15885214478589205;0.0;0.02734893055057306;0.02729572251448245;0.16537512071219498;0.4000000059604645;0.0
+NotSuccession(Execute Payment,Receive Claim);Prevalence;0.15826848718964645;0.0;0.027241983545777632;0.02718898357778974;0.16505145726644654;0.3333333432674408;0.0
+NotSuccession(Execute Payment,Receive Claim);Added Value;NaN;NaN;NaN;NaN;NaN;0.8333333134651184;0.15000000596046448
+NotSuccession(Execute Payment,Receive Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Execute Payment,Receive Claim);Jaccard;NaN;NaN;NaN;NaN;NaN;1.0;0.25
+NotSuccession(Execute Payment,Receive Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Receive Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Receive Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;0.38490015268325806;0.18973666429519653
+NotSuccession(Execute Payment,Receive Claim);Conviction;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;1.1999999284744263
+NotSuccession(Execute Payment,Receive Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.9722221493721008;0.05249999091029167
+NotSuccession(Execute Payment,Receive Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;-2.692307472229004;-7.965513706207275
+NotSuccession(Execute Payment,Receive Claim);Laplace Correction;0.6422503301257753;0.6249228433128157;0.02226438861363212;0.022221072682477194;0.14921256184930315;0.800000011920929;0.3333333432674408
+NotSuccession(Execute Payment,Receive Claim);J Measure;NaN;NaN;NaN;NaN;NaN;0.03693262115120888;0.03693262115120888
+NotSuccession(Execute Payment,Receive Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;2.5849623680114746;0.33048197627067566
+NotSuccession(Execute Payment,Receive Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.5283207893371582;0.13219279050827026
+NotSuccession(Execute Payment,Receive Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Execute Payment,Receive Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;0.40824827551841736
+NotSuccession(Execute Payment,Receive Claim);Piatetsky-Shapiro;0.10597222309255178;0.0;0.012131128579637973;0.012107527162167859;0.11014140265875487;0.2222222238779068;0.0
+NotSuccession(Execute Payment,Receive Claim);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;0.5
+NotSuccession(Execute Payment,Receive Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;1.7917593717575073;0.9162906408309937
+NotSuccession(Execute Payment,Receive Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;0.3333333134651184
+NotSuccession(Execute Payment,Receive Claim);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.0;-2.000000238418579
+NotSuccession(Execute Payment,Receive Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;2.999999761581421
+NotSuccession(Execute Payment,Receive Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.0;-2.0
+NotSuccession(Execute Payment,Receive Claim);Zhang;NaN;NaN;NaN;NaN;NaN;1.0;0.6666666865348816
+NotSuccession(Execute Payment,Start Claim);Support;0.15865759226830548;0.0;0.027274371046083996;0.027221308067395117;0.16514954146495228;0.3333333432674408;0.0
+NotSuccession(Execute Payment,Start Claim);Confidence;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Start Claim);Recall;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Start Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+NotSuccession(Execute Payment,Start Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Execute Payment,Start Claim);Accuracy;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Execute Payment,Start Claim);Lift;NaN;NaN;NaN;NaN;NaN;5.999999523162842;2.999999761581421
+NotSuccession(Execute Payment,Start Claim);Leverage;NaN;NaN;NaN;NaN;NaN;0.9722222089767456;0.8888888955116272
+NotSuccession(Execute Payment,Start Claim);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Execute Payment,Start Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Execute Payment,Start Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;0.4444444477558136;0.2777777910232544
+NotSuccession(Execute Payment,Start Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Start Claim);Coverage;0.15865759226830548;0.0;0.027274371046083996;0.027221308067395117;0.16514954146495228;0.3333333432674408;0.0
+NotSuccession(Execute Payment,Start Claim);Prevalence;0.15865759226830548;0.0;0.027274371046083996;0.027221308067395117;0.16514954146495228;0.3333333432674408;0.0
+NotSuccession(Execute Payment,Start Claim);Added Value;NaN;NaN;NaN;NaN;NaN;0.8333333134651184;0.6666666269302368
+NotSuccession(Execute Payment,Start Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Execute Payment,Start Claim);Jaccard;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Start Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Start Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Start Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;0.38490015268325806;0.34020689129829407
+NotSuccession(Execute Payment,Start Claim);Conviction;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Execute Payment,Start Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.9722221493721008;0.8888887763023376
+NotSuccession(Execute Payment,Start Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;-2.692307472229004;-3.1999993324279785
+NotSuccession(Execute Payment,Start Claim);Laplace Correction;0.643158241932494;0.6259881479652314;0.022126048584701425;0.022083001797571656;0.14874827254358763;0.800000011920929;0.5
+NotSuccession(Execute Payment,Start Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Execute Payment,Start Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;2.5849623680114746;1.5849623680114746
+NotSuccession(Execute Payment,Start Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.5283207893371582;0.4308270812034607
+NotSuccession(Execute Payment,Start Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Execute Payment,Start Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+NotSuccession(Execute Payment,Start Claim);Piatetsky-Shapiro;0.10626405190517008;0.0;0.012148018560847245;0.01212438428349151;0.11021805006824992;0.2222222238779068;0.0
+NotSuccession(Execute Payment,Start Claim);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Start Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;1.7917593717575073;1.0986121892929077
+NotSuccession(Execute Payment,Start Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Execute Payment,Start Claim);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Start Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Execute Payment,Start Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Execute Payment,Start Claim);Zhang;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+CoExistence(Payment Order,Accept Claim);Support;0.10939256470027138;0.0;0.012949234666511664;0.012924041602958139;0.11379470403543245;0.3333333432674408;0.0
+CoExistence(Payment Order,Accept Claim);Confidence;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+CoExistence(Payment Order,Accept Claim);Recall;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Payment Order,Accept Claim);Lovinger;6.788391393324505E-46;0.0;4.913896774260973E-91;4.9043366638052116E-91;7.009919239378562E-46;1.401298464324817E-45;0.0
+CoExistence(Payment Order,Accept Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+CoExistence(Payment Order,Accept Claim);Accuracy;0.8735408570747896;0.8647638373645066;0.015295949703703892;0.015266191046692796;0.12367679533244663;1.0;0.6666666865348816
+CoExistence(Payment Order,Accept Claim);Lift;NaN;NaN;NaN;NaN;NaN;4.999999523162842;2.999999761581421
+CoExistence(Payment Order,Accept Claim);Leverage;0.4595450370460169;0.0;0.2252476482080349;0.22480942321152123;0.4746026213665859;0.9599999785423279;0.0
+CoExistence(Payment Order,Accept Claim);Compliance;0.8735408563790154;0.8647638364619862;0.015295949992140455;0.015266191334568196;0.12367679649853668;1.0;0.6666666269302368
+CoExistence(Payment Order,Accept Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+CoExistence(Payment Order,Accept Claim);Gini Index;0.16900358140352612;0.0;0.03060693424143271;0.030547387676760664;0.1749483759325382;0.4444444477558136;0.0
+CoExistence(Payment Order,Accept Claim);Certainty factor;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+CoExistence(Payment Order,Accept Claim);Coverage;0.23585170898803937;0.23483921074061667;5.238719019818406E-4;5.228526959468565E-4;0.022888248119544683;0.3333333432674408;0.20000000298023224
+CoExistence(Payment Order,Accept Claim);Prevalence;0.10939256470027138;0.0;0.012949234666511664;0.012924041602958139;0.11379470403543245;0.3333333432674408;0.0
+CoExistence(Payment Order,Accept Claim);Added Value;0.3750432394589892;0.0;0.15017619340406801;0.14988402182156982;0.38752573257019723;0.800000011920929;0.0
+CoExistence(Payment Order,Accept Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+CoExistence(Payment Order,Accept Claim);Jaccard;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+CoExistence(Payment Order,Accept Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Payment Order,Accept Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Payment Order,Accept Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;0.38490015268325806;0.3577708899974823
+CoExistence(Payment Order,Accept Claim);Conviction;1.6484495002527954E38;4.6366291847697009E18;2.8976343085614E76;2.8919968877276225E76;1.702243903957773E38;3.4028234663852886E38;1.0
+CoExistence(Payment Order,Accept Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.9599998593330383;0.8888887763023376
+CoExistence(Payment Order,Accept Claim);Collective Strength;1.7543739661324916E38;NaN;2.897634308561401E76;2.8919968877276235E76;1.7022439039577733E38;3.4028234663852886E38;-3.1999993324279785
+CoExistence(Payment Order,Accept Claim);Laplace Correction;0.5351815874822405;0.4937289250309494;0.04344524321119738;0.04336071939172034;0.20843522545672882;0.75;0.3333333432674408
+CoExistence(Payment Order,Accept Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Payment Order,Accept Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;2.321928024291992;1.5849623680114746
+CoExistence(Payment Order,Accept Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.5283207893371582;0.46438559889793396
+CoExistence(Payment Order,Accept Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Payment Order,Accept Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+CoExistence(Payment Order,Accept Claim);Piatetsky-Shapiro;0.08450179002048444;0.0;0.007651733675721168;0.007636847034328715;0.08747418862568071;0.2222222238779068;0.0
+CoExistence(Payment Order,Accept Claim);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Payment Order,Accept Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;1.6094378232955933;1.0986121892929077
+CoExistence(Payment Order,Accept Claim);Sebag-Schoenauer;1.6484495002527954E38;0.0;2.8976343085614E76;2.8919968877276225E76;1.702243903957773E38;3.4028234663852886E38;0.0
+CoExistence(Payment Order,Accept Claim);Least Contradiction;0.4844357976653698;7.501650914259986E-24;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;1.401298464324817E-45
+CoExistence(Payment Order,Accept Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+CoExistence(Payment Order,Accept Claim);Example and Counterexample Rate;0.4844357976653698;7.501650914259986E-24;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;1.401298464324817E-45
+CoExistence(Payment Order,Accept Claim);Zhang;NaN;NaN;NaN;NaN;NaN;1.0;0.9999998807907104
+NotSuccession(Payment Order,Accept Claim);Support;0.12645914428776817;0.0;0.015295949997452546;0.015266191339869952;0.12367679652001237;0.3333333432674408;0.0
+NotSuccession(Payment Order,Accept Claim);Confidence;0.5155642023346299;0.0;0.25024461282908966;0.24975775560568675;0.5002445530229086;1.0;0.0
+NotSuccession(Payment Order,Accept Claim);Recall;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Payment Order,Accept Claim);Lovinger;7.224593249923661E-46;0.0;4.913896774260975E-91;4.904336663805214E-91;7.009919239378563E-46;1.401298464324817E-45;0.0
+NotSuccession(Payment Order,Accept Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Accept Claim);Accuracy;0.8906074427213189;0.8832377372509774;0.012949232886508564;0.01292403982641808;0.11379469621431644;1.0;0.6666666865348816
+NotSuccession(Payment Order,Accept Claim);Lift;NaN;NaN;NaN;NaN;NaN;4.999999523162842;2.999999761581421
+NotSuccession(Payment Order,Accept Claim);Leverage;0.48430609459543034;0.0;0.2208807197516897;0.22045099072493546;0.4699794886499726;0.9599999785423279;0.0
+NotSuccession(Payment Order,Accept Claim);Compliance;0.8906074417936201;0.8832377360219096;0.012949233302817663;0.01292404024191724;0.11379469804352776;1.0;0.6666666269302368
+NotSuccession(Payment Order,Accept Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Payment Order,Accept Claim);Gini Index;0.19040208220018032;0.0;0.03437654434475668;0.03430966390828828;0.18540912691870562;0.4444444477558136;0.0
+NotSuccession(Payment Order,Accept Claim);Certainty factor;0.5155642023346299;0.0;0.25024461282908966;0.24975775560568675;0.5002445530229086;1.0;0.0
+NotSuccession(Payment Order,Accept Claim);Coverage;0.23585170898803937;0.23483921074061667;5.238719019818406E-4;5.228526959468565E-4;0.022888248119544683;0.3333333432674408;0.20000000298023224
+NotSuccession(Payment Order,Accept Claim);Prevalence;0.12645914428776817;0.0;0.015295949997452546;0.015266191339869952;0.12367679652001237;0.3333333432674408;0.0
+NotSuccession(Payment Order,Accept Claim);Added Value;0.3891050587136458;0.0;0.14277905497863688;0.14250127471603252;0.3778611583354882;0.800000011920929;0.0
+NotSuccession(Payment Order,Accept Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Payment Order,Accept Claim);Jaccard;0.5155642023346299;0.0;0.25024461282908966;0.24975775560568675;0.5002445530229086;1.0;0.0
+NotSuccession(Payment Order,Accept Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Payment Order,Accept Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Payment Order,Accept Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;0.38490015268325806;0.3577708899974823
+NotSuccession(Payment Order,Accept Claim);Conviction;1.7543739661324916E38;7.339002820332032E19;2.897634308561401E76;2.8919968877276235E76;1.7022439039577733E38;3.4028234663852886E38;1.0
+NotSuccession(Payment Order,Accept Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.9599998593330383;0.8888887763023376
+NotSuccession(Payment Order,Accept Claim);Collective Strength;1.6484495002527954E38;NaN;2.8976343085614E76;2.8919968877276225E76;1.702243903957773E38;3.4028234663852886E38;-3.1999993324279785
+NotSuccession(Payment Order,Accept Claim);Laplace Correction;0.46481842788277017;0.414528356959445;0.04344524942608961;0.043360725594521345;0.20843524036517821;0.6666666865348816;0.25
+NotSuccession(Payment Order,Accept Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Payment Order,Accept Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;2.321928024291992;1.5849623680114746
+NotSuccession(Payment Order,Accept Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.5283207893371582;0.46438559889793396
+NotSuccession(Payment Order,Accept Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Payment Order,Accept Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+NotSuccession(Payment Order,Accept Claim);Piatetsky-Shapiro;0.09520103738929513;0.0;0.008594136794109513;0.008577416683615138;0.09270456727750534;0.2222222238779068;0.0
+NotSuccession(Payment Order,Accept Claim);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Payment Order,Accept Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;1.6094378232955933;1.0986121892929077
+NotSuccession(Payment Order,Accept Claim);Sebag-Schoenauer;1.7543739661324916E38;0.0;2.897634308561401E76;2.8919968877276235E76;1.7022439039577733E38;3.4028234663852886E38;0.0
+NotSuccession(Payment Order,Accept Claim);Least Contradiction;0.5155642023346299;1.8679867676350635E-22;0.25024461282908966;0.24975775560568675;0.5002445530229086;1.0;1.401298464324817E-45
+NotSuccession(Payment Order,Accept Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Payment Order,Accept Claim);Example and Counterexample Rate;0.5155642023346299;1.8679867676350635E-22;0.25024461282908966;0.24975775560568675;0.5002445530229086;1.0;1.401298464324817E-45
+NotSuccession(Payment Order,Accept Claim);Zhang;NaN;NaN;NaN;NaN;NaN;1.0;0.9999998807907104
+Succession(Payment Order,Execute Payment);Support;0.21335387113957088;0.0;0.04873718477112546;0.0486423653455007;0.22076499897204144;0.4444444477558136;0.0
+Succession(Payment Order,Execute Payment);Confidence;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+Succession(Payment Order,Execute Payment);Recall;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Succession(Payment Order,Execute Payment);Lovinger;6.788391393324505E-46;0.0;4.913896774260973E-91;4.9043366638052116E-91;7.009919239378562E-46;1.401298464324817E-45;0.0
+Succession(Payment Order,Execute Payment);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+Succession(Payment Order,Execute Payment);Accuracy;0.8735408570747896;0.8647638373645066;0.015295949703703892;0.015266191046692796;0.12367679533244663;1.0;0.6666666865348816
+Succession(Payment Order,Execute Payment);Lift;NaN;NaN;NaN;NaN;NaN;2.999999761581421;2.25
+Succession(Payment Order,Execute Payment);Leverage;0.39027355883835846;0.0;0.1625373362222167;0.16222111572372988;0.40315919463930955;0.8888888955116272;0.0
+Succession(Payment Order,Execute Payment);Compliance;0.8735408563790154;0.8647638364619862;0.015295949992140455;0.015266191334568196;0.12367679649853668;1.0;0.6666666269302368
+Succession(Payment Order,Execute Payment);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+Succession(Payment Order,Execute Payment);Gini Index;0.23838326558180825;0.0;0.06063413209797728;0.060516166860432576;0.24623998882792633;0.4938271641731262;0.0
+Succession(Payment Order,Execute Payment);Certainty factor;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+Succession(Payment Order,Execute Payment);Coverage;0.3398130154273389;0.3248418348761113;0.009966851497453102;0.009947460735784905;0.09983411990623797;0.4444444477558136;0.20000000298023224
+Succession(Payment Order,Execute Payment);Prevalence;0.21335387113957088;0.0;0.04873718477112546;0.0486423653455007;0.22076499897204144;0.4444444477558136;0.0
+Succession(Payment Order,Execute Payment);Added Value;0.2710819399774306;0.0;0.07855772777463016;0.07840489172837602;0.28028151522109007;0.6666666269302368;0.0
+Succession(Payment Order,Execute Payment);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+Succession(Payment Order,Execute Payment);Jaccard;0.4844357976653698;0.0;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;0.0
+Succession(Payment Order,Execute Payment);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Succession(Payment Order,Execute Payment);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Succession(Payment Order,Execute Payment);Klosgen;NaN;NaN;NaN;NaN;NaN;0.38490015268325806;0.37037038803100586
+Succession(Payment Order,Execute Payment);Conviction;1.6484495002527954E38;4.6366291847697009E18;2.8976343085614E76;2.8919968877276225E76;1.702243903957773E38;3.4028234663852886E38;1.0
+Succession(Payment Order,Execute Payment);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.8888887763023376;0.8024691343307495
+Succession(Payment Order,Execute Payment);Collective Strength;1.7543739661324916E38;NaN;2.897634308561401E76;2.8919968877276235E76;1.7022439039577733E38;3.4028234663852886E38;-3.2352943420410156
+Succession(Payment Order,Execute Payment);Laplace Correction;0.574189360329613;0.5186907009337829;0.06196625005621636;0.061845693149492204;0.24893021121634948;0.8333333134651184;0.3333333432674408
+Succession(Payment Order,Execute Payment);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Payment Order,Execute Payment);One-way Support;NaN;NaN;NaN;NaN;NaN;1.5849623680114746;1.1699249744415283
+Succession(Payment Order,Execute Payment);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.5306390523910522;0.5199666619300842
+Succession(Payment Order,Execute Payment);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Succession(Payment Order,Execute Payment);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+Succession(Payment Order,Execute Payment);Piatetsky-Shapiro;0.11919163210962533;0.0;0.015158533187216348;0.015129041877513594;0.12311999507479014;0.2469135820865631;0.0
+Succession(Payment Order,Execute Payment);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Succession(Payment Order,Execute Payment);Information Gain;NaN;NaN;NaN;NaN;NaN;1.0986121892929077;0.8109301924705505
+Succession(Payment Order,Execute Payment);Sebag-Schoenauer;1.6484495002527954E38;0.0;2.8976343085614E76;2.8919968877276225E76;1.702243903957773E38;3.4028234663852886E38;0.0
+Succession(Payment Order,Execute Payment);Least Contradiction;0.4844357976653698;7.501650914259986E-24;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;1.401298464324817E-45
+Succession(Payment Order,Execute Payment);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+Succession(Payment Order,Execute Payment);Example and Counterexample Rate;0.4844357976653698;7.501650914259986E-24;0.25024461282908955;0.24975775560568664;0.5002445530229085;1.0;1.401298464324817E-45
+Succession(Payment Order,Execute Payment);Zhang;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+AlternatePrecedence(Payment Order,Execute Payment);Support;0.05469628235013569;0.0;0.003237308666627916;0.0032310104007395347;0.05689735201771622;0.1666666716337204;0.0
+AlternatePrecedence(Payment Order,Execute Payment);Confidence;NaN;NaN;NaN;NaN;NaN;1.0;0.3333333134651184
+AlternatePrecedence(Payment Order,Execute Payment);Recall;0.1614785901187458;0.0;0.027804953846108614;0.027750858605162878;0.1667481749408629;0.3333333432674408;0.0
+AlternatePrecedence(Payment Order,Execute Payment);Lovinger;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;-0.25
+AlternatePrecedence(Payment Order,Execute Payment);Specificity;0.4484713552700872;0.3967346326089661;0.04433620872044499;0.044249951505035565;0.2105616506404834;0.7142857313156128;0.20000000298023224
+AlternatePrecedence(Payment Order,Execute Payment);Accuracy;0.397541085192897;0.3649158505316736;0.02515844964484027;0.025109503244753032;0.15861415335599868;0.6666666865348816;0.20000000298023224
+AlternatePrecedence(Payment Order,Execute Payment);Lift;NaN;NaN;NaN;NaN;NaN;2.0;0.9999999403953552
+AlternatePrecedence(Payment Order,Execute Payment);Leverage;NaN;NaN;NaN;NaN;NaN;0.9166666865348816;0.2222221940755844
+AlternatePrecedence(Payment Order,Execute Payment);Compliance;0.8960387005184407;0.88909584961385;0.012286170573225084;0.012262267517635152;0.11084299965818808;1.0;0.7777777910232544
+AlternatePrecedence(Payment Order,Execute Payment);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;1.0
+AlternatePrecedence(Payment Order,Execute Payment);Gini Index;NaN;NaN;NaN;NaN;NaN;0.1000000387430191;-8.278423280216884E-8
+AlternatePrecedence(Payment Order,Execute Payment);Certainty factor;NaN;NaN;NaN;NaN;NaN;1.0;-4.470348713425665E-8
+AlternatePrecedence(Payment Order,Execute Payment);Coverage;0.15865759226830548;0.0;0.027274371046083996;0.027221308067395117;0.16514954146495228;0.3333333432674408;0.0
+AlternatePrecedence(Payment Order,Execute Payment);Prevalence;0.553193909706773;0.5111097040160709;0.04397031139586995;0.043884766042959704;0.2096909902591667;0.800000011920929;0.30000001192092896
+AlternatePrecedence(Payment Order,Execute Payment);Added Value;NaN;NaN;NaN;NaN;NaN;0.5;-2.9802322387695312E-8
+AlternatePrecedence(Payment Order,Execute Payment);Relative Risk;NaN;NaN;NaN;NaN;NaN;2.499999761581421;1.0
+AlternatePrecedence(Payment Order,Execute Payment);Jaccard;0.0990596573930306;0.0;0.010736063395497595;0.010715176112626977;0.10361497669496238;0.3333333432674408;0.0
+AlternatePrecedence(Payment Order,Execute Payment);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;0.0
+AlternatePrecedence(Payment Order,Execute Payment);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;0.0
+AlternatePrecedence(Payment Order,Execute Payment);Klosgen;NaN;NaN;NaN;NaN;NaN;0.20412415266036987;-9.934107758624577E-9
+AlternatePrecedence(Payment Order,Execute Payment);Conviction;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;1.0000001192092896
+AlternatePrecedence(Payment Order,Execute Payment);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.0833333358168602;-1.4717196350488848E-9
+AlternatePrecedence(Payment Order,Execute Payment);Collective Strength;1.8805760789938015;1.651400677986028;0.8306964684660763;0.8290803274768427;0.9114255144914895;3.285715103149414;1.0
+AlternatePrecedence(Payment Order,Execute Payment);Laplace Correction;0.4559014298108766;0.4525481228647881;0.0031630691388716734;0.0031569153078621955;0.05624116943015742;0.6666666865348816;0.4000000059604645
+AlternatePrecedence(Payment Order,Execute Payment);J Measure;NaN;NaN;NaN;NaN;NaN;0.00806732103228569;-1.9868215517249155E-8
+AlternatePrecedence(Payment Order,Execute Payment);One-way Support;NaN;NaN;NaN;NaN;NaN;1.0;-2.866377357690908E-8
+AlternatePrecedence(Payment Order,Execute Payment);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.1666666716337204;-9.554591784421973E-9
+AlternatePrecedence(Payment Order,Execute Payment);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;0.015712175518274307;-8.599133138886828E-8
+AlternatePrecedence(Payment Order,Execute Payment);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;0.4472135901451111;-3.352760913344355E-8
+AlternatePrecedence(Payment Order,Execute Payment);Piatetsky-Shapiro;0.0013772663497275395;NaN;1.084934384986269E-4;1.0828236177003035E-4;0.01041601836109302;0.0833333358168602;-7.450580596923828E-9
+AlternatePrecedence(Payment Order,Execute Payment);Cosine;NaN;NaN;NaN;NaN;NaN;0.5773502588272095;0.3333333134651184
+AlternatePrecedence(Payment Order,Execute Payment);Information Gain;NaN;NaN;NaN;NaN;NaN;0.6931471824645996;-5.9604644775390625E-8
+AlternatePrecedence(Payment Order,Execute Payment);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;0.5
+AlternatePrecedence(Payment Order,Execute Payment);Least Contradiction;-0.1504539464698228;NaN;0.03103401162833181;0.030973634173801983;0.17616472867271646;0.3333333432674408;-0.3333333134651184
+AlternatePrecedence(Payment Order,Execute Payment);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;1.0
+AlternatePrecedence(Payment Order,Execute Payment);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.0;-1.0
+AlternatePrecedence(Payment Order,Execute Payment);Zhang;NaN;NaN;NaN;NaN;NaN;1.0;-1.0058283805847168E-7
+NotSuccession(Payment Order,Receive Claim);Support;0.18096087410582168;0.0;0.00472369707902679;0.004714507006888606;0.06872915741537058;0.3333333432674408;0.0
+NotSuccession(Payment Order,Receive Claim);Confidence;0.9980544747081713;0.0;0.0019455252918287942;0.0019417402231676486;0.044108109139123094;1.0;0.0
+NotSuccession(Payment Order,Receive Claim);Recall;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Payment Order,Receive Claim);Lovinger;1.3985722027210725E-45;0.0;3.8203061986752745E-93;3.812873696343221E-93;6.180862560092462E-47;1.401298464324817E-45;0.0
+NotSuccession(Payment Order,Receive Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Receive Claim);Accuracy;0.9996108949648261;0.9995659628275986;7.782100239616501E-5;7.76695996677678E-5;0.00882162130201501;1.0;0.800000011920929
+NotSuccession(Payment Order,Receive Claim);Lift;NaN;NaN;NaN;NaN;NaN;9.0;2.999999761581421
+NotSuccession(Payment Order,Receive Claim);Leverage;0.9605931318455632;0.0;0.002436115390478532;0.0024313758663725427;0.049357019667708175;0.9876543283462524;0.0
+NotSuccession(Payment Order,Receive Claim);Compliance;0.9996108949648261;0.9995659628275986;7.782100239616501E-5;7.76695996677678E-5;0.00882162130201501;1.0;0.800000011920929
+NotSuccession(Payment Order,Receive Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Payment Order,Receive Claim);Gini Index;0.2869990577319717;0.26538168065830026;0.007645887852527569;0.00763101258433199;0.08744076768034216;0.4444444477558136;1.4901161193847656E-8
+NotSuccession(Payment Order,Receive Claim);Certainty factor;0.9980544747081713;0.0;0.0019455252918287942;0.0019417402231676486;0.044108109139123094;1.0;0.0
+NotSuccession(Payment Order,Receive Claim);Coverage;0.18134997916998574;0.16808407462314673;0.004660417994147962;0.004651351033069853;0.06826725418638106;0.3333333432674408;0.1111111119389534
+NotSuccession(Payment Order,Receive Claim);Prevalence;0.18096087410582168;0.0;0.00472369707902679;0.004714507006888606;0.06872915741537058;0.3333333432674408;0.0
+NotSuccession(Payment Order,Receive Claim);Added Value;0.8170936045015835;0.0;0.005963722447996913;0.005952119875140888;0.07722514129476821;0.8888888955116272;0.0
+NotSuccession(Payment Order,Receive Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Payment Order,Receive Claim);Jaccard;0.9980544747081713;0.0;0.0019455252918287942;0.0019417402231676486;0.044108109139123094;1.0;0.0
+NotSuccession(Payment Order,Receive Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Payment Order,Receive Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Payment Order,Receive Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;0.38490015268325806;0.29629629850387573
+NotSuccession(Payment Order,Receive Claim);Conviction;3.396203187267806E38;2.863352069983105E38;2.252764113498522E74;2.2483813039391865E74;1.5009210883649153E37;3.4028234663852886E38;1.0
+NotSuccession(Payment Order,Receive Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.9876543283462524;0.8888887763023376
+NotSuccession(Payment Order,Receive Claim);Collective Strength;6.620279117481112E35;NaN;2.2527641134985188E74;2.2483813039391832E74;1.5009210883649142E37;3.4028234663852886E38;-3.1999993324279785
+NotSuccession(Payment Order,Receive Claim);Laplace Correction;0.6658560509579652;0.6653957473857902;3.377648398209297E-4;3.371077097823676E-4;0.018378379684317377;0.6666666865348816;0.25
+NotSuccession(Payment Order,Receive Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Payment Order,Receive Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;3.1699249744415283;1.5849623680114746
+NotSuccession(Payment Order,Receive Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.5283207893371582;0.35221388936042786
+NotSuccession(Payment Order,Receive Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Payment Order,Receive Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;0.9999999403953552
+NotSuccession(Payment Order,Receive Claim);Piatetsky-Shapiro;0.1434995288514904;0.0;0.0019114719673001368;0.0019077531502431327;0.04372038388784043;0.2222222238779068;0.0
+NotSuccession(Payment Order,Receive Claim);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Payment Order,Receive Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;2.1972246170043945;1.0986121892929077
+NotSuccession(Payment Order,Receive Claim);Sebag-Schoenauer;3.396203187267806E38;0.0;2.252764113498522E74;2.2483813039391865E74;1.5009210883649153E37;3.4028234663852886E38;0.0
+NotSuccession(Payment Order,Receive Claim);Least Contradiction;0.9980544747081713;0.8179682394265082;0.0019455252918287942;0.0019417402231676486;0.044108109139123094;1.0;1.401298464324817E-45
+NotSuccession(Payment Order,Receive Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Payment Order,Receive Claim);Example and Counterexample Rate;0.9980544747081713;0.8179682394265082;0.0019455252918287942;0.0019417402231676486;0.044108109139123094;1.0;1.401298464324817E-45
+NotSuccession(Payment Order,Receive Claim);Zhang;NaN;NaN;NaN;NaN;NaN;1.0;0.9999998807907104
+NotSuccession(Payment Order,Start Claim);Support;0.1811554266379038;0.16785756006903088;0.004672602283089285;0.004663511617168878;0.0683564355645413;0.3333333432674408;0.10000000149011612
+NotSuccession(Payment Order,Start Claim);Confidence;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Start Claim);Recall;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Start Claim);Lovinger;1.401298464324817E-45;1.4012984643243482E-45;0.0;0.0;0.0;1.401298464324817E-45;1.401298464324817E-45
+NotSuccession(Payment Order,Start Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Start Claim);Accuracy;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Start Claim);Lift;6.431906570256452;5.957431980212649;5.965139932984232;5.953534602375313;2.4423635955738106;9.999999046325684;2.999999761581421
+NotSuccession(Payment Order,Start Claim);Leverage;0.9625192019030276;0.9621881922553956;6.353722913194997E-4;6.341361584570104E-4;0.025206592219486942;0.9900000095367432;0.8888888955116272
+NotSuccession(Payment Order,Start Claim);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Start Claim);Odds Ratio;3.4028234663852886E38;3.4028234663859614E38;0.0;0.0;0.0;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Payment Order,Start Claim);Gini Index;0.28734925229841646;0.2739360898007811;0.007507520031915106;0.007492913961814104;0.08664594642517967;0.4444444477558136;0.18000002205371857
+NotSuccession(Payment Order,Start Claim);Certainty factor;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Start Claim);Coverage;0.1811554266379038;0.16785756006903088;0.004672602283089285;0.004663511617168878;0.0683564355645413;0.3333333432674408;0.10000000149011612
+NotSuccession(Payment Order,Start Claim);Prevalence;0.1811554266379038;0.16785756006903088;0.004672602283089285;0.004663511617168878;0.0683564355645413;0.3333333432674408;0.10000000149011612
+NotSuccession(Payment Order,Start Claim);Added Value;0.8188445772178445;0.8159778184595796;0.0046726028233204505;0.00466351215634901;0.06835643951611618;0.8999999761581421;0.6666666269302368
+NotSuccession(Payment Order,Start Claim);Relative Risk;3.4028234663852886E38;3.4028234663859614E38;0.0;0.0;0.0;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Payment Order,Start Claim);Jaccard;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Start Claim);Ylue Q;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Start Claim);Ylue Y;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Start Claim);Klosgen;0.3365015890231858;0.3343095672826223;0.0014654182364586777;0.0014625672282165402;0.038280781554961466;0.38490015268325806;0.2846049964427948
+NotSuccession(Payment Order,Start Claim);Conviction;3.4028234663852886E38;3.4028234663859614E38;0.0;0.0;0.0;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Payment Order,Start Claim);Interestingness Weighting Dependency;0.9625191911185299;0.9621881813569926;6.353725004232197E-4;6.341363671539138E-4;0.025206596367284888;0.9899998307228088;0.8888887763023376
+NotSuccession(Payment Order,Start Claim);Collective Strength;-2.7330824289804303;NaN;0.06888161822793995;0.0687476072975354;0.2624530781452943;-2.4146347045898438;-3.1999993324279785
+NotSuccession(Payment Order,Start Claim);Laplace Correction;0.6666666865348816;0.6666666865348835;0.0;0.0;0.0;0.6666666865348816;0.6666666865348816
+NotSuccession(Payment Order,Start Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Payment Order,Start Claim);One-way Support;2.574690565988711;2.5105858724794774;0.32653517840608587;0.325899895957825;0.5714325668056431;3.321928024291992;1.5849623680114746
+NotSuccession(Payment Order,Start Claim);Two-way Support;0.4275415364058565;0.4214208184474622;0.0051707352029734446;0.00516067540685871;0.07190782435155053;0.5283207893371582;0.3321928083896637
+NotSuccession(Payment Order,Start Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Payment Order,Start Claim);Linear Correlation Coefficient;0.9999999952455433;0.9999999952455437;2.6129116263008424E-16;2.6078281406465606E-16;1.6164503166818467E-8;1.0;0.9999999403953552
+NotSuccession(Payment Order,Start Claim);Piatetsky-Shapiro;0.1436746261347129;0.13696804487833084;0.0018768800095378681;0.0018732284920095843;0.04332297323058366;0.2222222238779068;0.09000000357627869
+NotSuccession(Payment Order,Start Claim);Cosine;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Start Claim);Information Gain;1.7846395322320985;1.7402055392454165;0.15688483250218863;0.15657960909265128;0.3960869001900828;2.3025848865509033;1.0986121892929077
+NotSuccession(Payment Order,Start Claim);Sebag-Schoenauer;3.4028234663852886E38;3.4028234663859614E38;0.0;0.0;0.0;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Payment Order,Start Claim);Least Contradiction;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Start Claim);Odd Multiplier;3.4028234663852886E38;3.4028234663859614E38;0.0;0.0;0.0;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Payment Order,Start Claim);Example and Counterexample Rate;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Payment Order,Start Claim);Zhang;0.9999999914187864;0.999999991418786;9.650244022538096E-16;9.631469228719927E-16;3.106484189970729E-8;1.0000001192092896;0.9999998807907104
+AlternateResponse(Receive Claim,Accept Claim);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Receive Claim,Accept Claim);Confidence;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Accept Claim);Recall;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Accept Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;0.19999992847442627;0.19999992847442627
+AlternateResponse(Receive Claim,Accept Claim);Specificity;0.8905642088285223;0.8831893308347976;0.01295804353569558;0.012932833334264265;0.11383340254817818;1.0;0.6666666865348816
+AlternateResponse(Receive Claim,Accept Claim);Accuracy;0.89041289014575;0.8830083118135059;0.01300401269155096;0.012978713055964285;0.1140351379687461;1.0;0.6666666865348816
+AlternateResponse(Receive Claim,Accept Claim);Lift;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Accept Claim);Leverage;NaN;NaN;NaN;NaN;NaN;-0.020000001415610313;-0.020000001415610313
+AlternateResponse(Receive Claim,Accept Claim);Compliance;0.9998054474244322;0.9997950394077815;1.9455262195276635E-5;1.9417411490616565E-5;0.0044108119655315884;1.0;0.8999999761581421
+AlternateResponse(Receive Claim,Accept Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Accept Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;0.008888879790902138;0.008888879790902138
+AlternateResponse(Receive Claim,Accept Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;-0.25;-0.25
+AlternateResponse(Receive Claim,Accept Claim);Coverage;1.9455253208193747E-4;0.0;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.10000000149011612;0.0
+AlternateResponse(Receive Claim,Accept Claim);Prevalence;0.10939256470027138;0.0;0.012949234666511664;0.012924041602958139;0.11379470403543245;0.3333333432674408;0.0
+AlternateResponse(Receive Claim,Accept Claim);Added Value;NaN;NaN;NaN;NaN;NaN;-0.20000000298023224;-0.20000000298023224
+AlternateResponse(Receive Claim,Accept Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Accept Claim);Jaccard;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Accept Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;-1.0;-1.0
+AlternateResponse(Receive Claim,Accept Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;-1.0;-1.0
+AlternateResponse(Receive Claim,Accept Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;-0.0;-0.0
+AlternateResponse(Receive Claim,Accept Claim);Conviction;NaN;NaN;NaN;NaN;NaN;0.8000000715255737;0.8000000715255737
+AlternateResponse(Receive Claim,Accept Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;-0.0;-0.0
+AlternateResponse(Receive Claim,Accept Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;1.2297301292419434;1.0
+AlternateResponse(Receive Claim,Accept Claim);Laplace Correction;0.49967574580402213;0.4996057342448503;5.404236277511425E-5;5.3937221991505075E-5;0.007351351085012486;0.5;0.3333333432674408
+AlternateResponse(Receive Claim,Accept Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Accept Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Accept Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Accept Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Accept Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;-0.1666666716337204;-0.1666666716337204
+AlternateResponse(Receive Claim,Accept Claim);Piatetsky-Shapiro;-3.891050859068156E-5;NaN;7.782102268957479E-7;7.766961992169624E-7;8.821622452223558E-4;0.0;-0.020000001415610313
+AlternateResponse(Receive Claim,Accept Claim);Cosine;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Accept Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+AlternateResponse(Receive Claim,Accept Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Accept Claim);Least Contradiction;NaN;NaN;NaN;NaN;NaN;0.0;-0.5
+AlternateResponse(Receive Claim,Accept Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Accept Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+AlternateResponse(Receive Claim,Accept Claim);Zhang;NaN;NaN;NaN;NaN;NaN;-1.0;-1.0
+Precedence(Receive Claim,Accept Claim);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Receive Claim,Accept Claim);Confidence;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Accept Claim);Recall;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Accept Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;0.3999999761581421;0.0
+Precedence(Receive Claim,Accept Claim);Specificity;0.9991353221440588;0.9988570998784007;3.843012464008133E-4;3.835535786062592E-4;0.01960360289336665;1.0;0.5555555820465088
+Precedence(Receive Claim,Accept Claim);Accuracy;0.944525510768482;0.9425061536021617;0.003619241450853624;0.003612200125073753;0.06016013173899824;1.0;0.5
+Precedence(Receive Claim,Accept Claim);Lift;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Accept Claim);Leverage;NaN;NaN;NaN;NaN;NaN;0.0;-0.04000000283122063
+Precedence(Receive Claim,Accept Claim);Compliance;0.9453037208388287;0.9435845765683215;0.003237308330968187;0.0032310100657328405;0.05689734906802062;1.0;0.8333333134651184
+Precedence(Receive Claim,Accept Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Accept Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;0.03555556386709213;-1.4901161193847656E-8
+Precedence(Receive Claim,Accept Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;0.0;-0.6666666269302368
+Precedence(Receive Claim,Accept Claim);Coverage;0.05469628235013569;0.0;0.003237308666627916;0.0032310104007395347;0.05689735201771622;0.1666666716337204;0.0
+Precedence(Receive Claim,Accept Claim);Prevalence;7.782101283277499E-4;0.0;3.112840559695944E-4;3.106784449657625E-4;0.017643243918554048;0.4000000059604645;0.0
+Precedence(Receive Claim,Accept Claim);Added Value;NaN;NaN;NaN;NaN;NaN;0.0;-0.4000000059604645
+Precedence(Receive Claim,Accept Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Accept Claim);Jaccard;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Accept Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;-1.0;-1.0
+Precedence(Receive Claim,Accept Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;-1.0;-1.0
+Precedence(Receive Claim,Accept Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;-0.0;-0.0
+Precedence(Receive Claim,Accept Claim);Conviction;NaN;NaN;NaN;NaN;NaN;1.0;0.6000000238418579
+Precedence(Receive Claim,Accept Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;-0.0;-0.0
+Precedence(Receive Claim,Accept Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;0.9051723480224609
+Precedence(Receive Claim,Accept Claim);Laplace Correction;0.4192607052015423;0.41083279207676043;0.006951238416600216;0.006937714606451189;0.08337408720100159;0.5;0.3333333432674408
+Precedence(Receive Claim,Accept Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Receive Claim,Accept Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Receive Claim,Accept Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Receive Claim,Accept Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Receive Claim,Accept Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;-0.27216553688049316;-0.27216553688049316
+Precedence(Receive Claim,Accept Claim);Piatetsky-Shapiro;-7.782101718136312E-5;NaN;3.1128409075829915E-6;3.1067847968678496E-6;0.0017643244904447116;0.0;-0.04000000283122063
+Precedence(Receive Claim,Accept Claim);Cosine;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Accept Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+Precedence(Receive Claim,Accept Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Accept Claim);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;-0.25
+Precedence(Receive Claim,Accept Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Accept Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+Precedence(Receive Claim,Accept Claim);Zhang;NaN;NaN;NaN;NaN;NaN;-1.0;-1.0
+AlternateResponse(Receive Claim,Execute Payment);Support;1.9455253208193747E-4;0.0;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.10000000149011612;0.0
+AlternateResponse(Receive Claim,Execute Payment);Confidence;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AlternateResponse(Receive Claim,Execute Payment);Recall;NaN;NaN;NaN;NaN;NaN;0.1428571492433548;0.0
+AlternateResponse(Receive Claim,Execute Payment);Lovinger;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+AlternateResponse(Receive Claim,Execute Payment);Specificity;0.6280533946499753;0.4895833220274838;0.14874533573545645;0.14845594792274155;0.38567516867884616;1.0;0.2222222238779068
+AlternateResponse(Receive Claim,Execute Payment);Accuracy;0.628183096328367;0.4897570135042735;0.1486773821148479;0.1483881265076206;0.3855870616538474;1.0;0.2222222238779068
+AlternateResponse(Receive Claim,Execute Payment);Lift;NaN;NaN;NaN;NaN;NaN;1.4285714626312256;1.4285714626312256
+AlternateResponse(Receive Claim,Execute Payment);Leverage;NaN;NaN;NaN;NaN;NaN;0.9300000071525574;0.9300000071525574
+AlternateResponse(Receive Claim,Execute Payment);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+AlternateResponse(Receive Claim,Execute Payment);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AlternateResponse(Receive Claim,Execute Payment);Gini Index;NaN;NaN;NaN;NaN;NaN;0.020000027492642403;0.020000027492642403
+AlternateResponse(Receive Claim,Execute Payment);Certainty factor;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AlternateResponse(Receive Claim,Execute Payment);Coverage;1.9455253208193747E-4;0.0;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.10000000149011612;0.0
+AlternateResponse(Receive Claim,Execute Payment);Prevalence;0.3720114631179707;0.0;0.14878580326316138;0.14849633671984785;0.38572762833787444;0.7777777910232544;0.0
+AlternateResponse(Receive Claim,Execute Payment);Added Value;NaN;NaN;NaN;NaN;NaN;0.30000001192092896;0.30000001192092896
+AlternateResponse(Receive Claim,Execute Payment);Relative Risk;NaN;NaN;NaN;NaN;NaN;1.5;1.5
+AlternateResponse(Receive Claim,Execute Payment);Jaccard;NaN;NaN;NaN;NaN;NaN;0.1428571492433548;0.0
+AlternateResponse(Receive Claim,Execute Payment);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AlternateResponse(Receive Claim,Execute Payment);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AlternateResponse(Receive Claim,Execute Payment);Klosgen;NaN;NaN;NaN;NaN;NaN;0.09486833214759827;0.09486833214759827
+AlternateResponse(Receive Claim,Execute Payment);Conviction;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AlternateResponse(Receive Claim,Execute Payment);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.01040816493332386;0.01040816493332386
+AlternateResponse(Receive Claim,Execute Payment);Collective Strength;NaN;NaN;NaN;NaN;NaN;1.4844292402267456;1.0
+AlternateResponse(Receive Claim,Execute Payment);Laplace Correction;0.5003242542539588;0.500279924731592;5.404238210217235E-5;5.3937241280961894E-5;0.007351352399536588;0.6666666865348816;0.5
+AlternateResponse(Receive Claim,Execute Payment);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Execute Payment);One-way Support;NaN;NaN;NaN;NaN;NaN;0.5145732164382935;0.5145732164382935
+AlternateResponse(Receive Claim,Execute Payment);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.051457323133945465;0.051457323133945465
+AlternateResponse(Receive Claim,Execute Payment);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Execute Payment);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;0.2182178944349289;0.2182178944349289
+AlternateResponse(Receive Claim,Execute Payment);Piatetsky-Shapiro;5.836576107411058E-5;0.0;1.75097290180073E-6;1.7475663397349698E-6;0.0013232433267546563;0.030000001192092896;0.0
+AlternateResponse(Receive Claim,Execute Payment);Cosine;NaN;NaN;NaN;NaN;NaN;0.37796446681022644;0.37796446681022644
+AlternateResponse(Receive Claim,Execute Payment);Information Gain;NaN;NaN;NaN;NaN;NaN;0.3566749691963196;0.3566749691963196
+AlternateResponse(Receive Claim,Execute Payment);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AlternateResponse(Receive Claim,Execute Payment);Least Contradiction;NaN;NaN;NaN;NaN;NaN;0.1428571492433548;0.0
+AlternateResponse(Receive Claim,Execute Payment);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AlternateResponse(Receive Claim,Execute Payment);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AlternateResponse(Receive Claim,Execute Payment);Zhang;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Precedence(Receive Claim,Execute Payment);Support;1.9455253208193747E-4;0.0;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.10000000149011612;0.0
+Precedence(Receive Claim,Execute Payment);Confidence;NaN;NaN;NaN;NaN;NaN;0.3333333134651184;0.0
+Precedence(Receive Claim,Execute Payment);Recall;NaN;NaN;NaN;NaN;NaN;0.25;0.25
+Precedence(Receive Claim,Execute Payment);Lovinger;NaN;NaN;NaN;NaN;NaN;0.09999996423721313;0.0
+Precedence(Receive Claim,Execute Payment);Specificity;0.9991662034960577;0.9989118458873609;3.5734133753340813E-4;3.566461209234209E-4;0.018903474218603524;1.0;0.5714285969734192
+Precedence(Receive Claim,Execute Payment);Accuracy;0.8409533163220966;0.8242517358344478;0.02746239572003155;0.027408966934584014;0.16571781956093784;1.0;0.5
+Precedence(Receive Claim,Execute Payment);Lift;NaN;NaN;NaN;NaN;NaN;0.8333333134651184;0.8333333134651184
+Precedence(Receive Claim,Execute Payment);Leverage;NaN;NaN;NaN;NaN;NaN;0.21333330869674683;0.0
+Precedence(Receive Claim,Execute Payment);Compliance;0.8415369462178377;0.8250057452999091;0.02723872689775772;0.027185733265660917;0.16504159141791416;1.0;0.6666666269302368
+Precedence(Receive Claim,Execute Payment);Odds Ratio;NaN;NaN;NaN;NaN;NaN;0.6666666865348816;0.6666666865348816
+Precedence(Receive Claim,Execute Payment);Gini Index;NaN;NaN;NaN;NaN;NaN;0.0038095118943601847;-1.4901161193847656E-8
+Precedence(Receive Claim,Execute Payment);Certainty factor;NaN;NaN;NaN;NaN;NaN;0.0;-0.11111114919185638
+Precedence(Receive Claim,Execute Payment);Coverage;0.15865759226830548;0.0;0.027274371046083996;0.027221308067395117;0.16514954146495228;0.3333333432674408;0.0
+Precedence(Receive Claim,Execute Payment);Prevalence;7.782101283277499E-4;0.0;3.112840559695944E-4;3.106784449657625E-4;0.017643243918554048;0.4000000059604645;0.0
+Precedence(Receive Claim,Execute Payment);Added Value;NaN;NaN;NaN;NaN;NaN;0.0;-0.06666669249534607
+Precedence(Receive Claim,Execute Payment);Relative Risk;NaN;NaN;NaN;NaN;NaN;0.7777776718139648;0.7777776718139648
+Precedence(Receive Claim,Execute Payment);Jaccard;NaN;NaN;NaN;NaN;NaN;0.1666666567325592;0.0
+Precedence(Receive Claim,Execute Payment);Ylue Q;NaN;NaN;NaN;NaN;NaN;-0.19999997317790985;-0.19999997317790985
+Precedence(Receive Claim,Execute Payment);Ylue Y;NaN;NaN;NaN;NaN;NaN;-0.10102050751447678;-0.10102050751447678
+Precedence(Receive Claim,Execute Payment);Klosgen;NaN;NaN;NaN;NaN;NaN;-0.015811393037438393;-0.015811393037438393
+Precedence(Receive Claim,Execute Payment);Conviction;NaN;NaN;NaN;NaN;NaN;1.0;0.9000000357627869
+Precedence(Receive Claim,Execute Payment);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;-0.0030555559787899256;-0.0030555559787899256
+Precedence(Receive Claim,Execute Payment);Collective Strength;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;1.7407408952713013
+Precedence(Receive Claim,Execute Payment);Laplace Correction;0.35723087055325964;0.32390729050007544;0.022081573616300396;0.022038613356346506;0.1485986999145699;0.5;0.20000000298023224
+Precedence(Receive Claim,Execute Payment);J Measure;NaN;NaN;NaN;NaN;NaN;0.0028399259317666292;0.0028399259317666292
+Precedence(Receive Claim,Execute Payment);One-way Support;NaN;NaN;NaN;NaN;NaN;-0.08767814189195633;-0.08767814189195633
+Precedence(Receive Claim,Execute Payment);Two-way Support;NaN;NaN;NaN;NaN;NaN;-0.026303444057703018;-0.026303444057703018
+Precedence(Receive Claim,Execute Payment);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;0.005802165251225233;0.005802165251225233
+Precedence(Receive Claim,Execute Payment);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;-0.0890870988368988;-0.0890870988368988
+Precedence(Receive Claim,Execute Payment);Piatetsky-Shapiro;-3.8910512214504744E-5;NaN;7.78210371848695E-7;7.766963438878998E-7;8.821623273801114E-4;0.0;-0.020000003278255463
+Precedence(Receive Claim,Execute Payment);Cosine;NaN;NaN;NaN;NaN;NaN;0.28867512941360474;0.28867512941360474
+Precedence(Receive Claim,Execute Payment);Information Gain;NaN;NaN;NaN;NaN;NaN;-0.18232157826423645;-0.18232157826423645
+Precedence(Receive Claim,Execute Payment);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;0.5;0.0
+Precedence(Receive Claim,Execute Payment);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;-0.25
+Precedence(Receive Claim,Execute Payment);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;0.75;0.75
+Precedence(Receive Claim,Execute Payment);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;-1.0
+Precedence(Receive Claim,Execute Payment);Zhang;NaN;NaN;NaN;NaN;NaN;-0.2500000298023224;-0.2500000298023224
+AlternateResponse(Receive Claim,Payment Order);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Receive Claim,Payment Order);Confidence;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Payment Order);Recall;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Lovinger;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Payment Order);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+AlternateResponse(Receive Claim,Payment Order);Accuracy;0.9998054474244322;0.9997950394077815;1.9455262195276635E-5;1.9417411490616565E-5;0.0044108119655315884;1.0;0.8999999761581421
+AlternateResponse(Receive Claim,Payment Order);Lift;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Leverage;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Payment Order);Compliance;0.9998054474244322;0.9997950394077815;1.9455262195276635E-5;1.9417411490616565E-5;0.0044108119655315884;1.0;0.8999999761581421
+AlternateResponse(Receive Claim,Payment Order);Odds Ratio;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Gini Index;NaN;NaN;NaN;NaN;NaN;-2.2351741790771484E-8;-2.2351741790771484E-8
+AlternateResponse(Receive Claim,Payment Order);Certainty factor;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Payment Order);Coverage;1.9455253208193747E-4;0.0;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.10000000149011612;0.0
+AlternateResponse(Receive Claim,Payment Order);Prevalence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Receive Claim,Payment Order);Added Value;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Payment Order);Relative Risk;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Jaccard;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Payment Order);Ylue Q;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Ylue Y;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Klosgen;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Conviction;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AlternateResponse(Receive Claim,Payment Order);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Collective Strength;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+AlternateResponse(Receive Claim,Payment Order);Laplace Correction;0.49967574580402213;0.4996057342448503;5.404236277511425E-5;5.3937221991505075E-5;0.007351351085012486;0.5;0.3333333432674408
+AlternateResponse(Receive Claim,Payment Order);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Piatetsky-Shapiro;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Receive Claim,Payment Order);Cosine;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Information Gain;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Receive Claim,Payment Order);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+AlternateResponse(Receive Claim,Payment Order);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Receive Claim,Payment Order);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+AlternateResponse(Receive Claim,Payment Order);Zhang;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Receive Claim,Payment Order);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Receive Claim,Payment Order);Confidence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Receive Claim,Payment Order);Recall;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Payment Order);Lovinger;7.782100703465788E-4;0.0;3.112840095846584E-4;3.106783986710696E-4;0.017643242604029975;0.3999999761581421;0.0
+Precedence(Receive Claim,Payment Order);Specificity;0.9991353221440588;0.9988570998784007;3.843012464008133E-4;3.835535786062592E-4;0.01960360289336665;1.0;0.5555555820465088
+Precedence(Receive Claim,Payment Order);Accuracy;0.8180663678432716;0.8150452381286657;0.004857328502355477;0.004847878446903423;0.0696945371055399;0.8888888955116272;0.5
+Precedence(Receive Claim,Payment Order);Lift;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Payment Order);Leverage;-7.782101718136312E-5;NaN;3.1128409075829915E-6;3.1067847968678496E-6;0.0017643244904447116;0.0;-0.04000000283122063
+Precedence(Receive Claim,Payment Order);Compliance;0.8188445772178445;0.8159778184595796;0.0046726028233204505;0.00466351215634901;0.06835643951611618;0.8999999761581421;0.6666666269302368
+Precedence(Receive Claim,Payment Order);Odds Ratio;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Payment Order);Gini Index;6.917884377653965E-5;NaN;2.4595287831343414E-6;2.4547437076807725E-6;0.0015682884884913048;0.03555556386709213;-1.4901161193847656E-8
+Precedence(Receive Claim,Payment Order);Certainty factor;-0.0012970167839109654;NaN;8.646778044018273E-4;8.629955518640804E-4;0.02940540434004993;0.0;-0.6666666269302368
+Precedence(Receive Claim,Payment Order);Coverage;0.1811554266379038;0.16785756006903088;0.004672602283089285;0.004663511617168878;0.0683564355645413;0.3333333432674408;0.10000000149011612
+Precedence(Receive Claim,Payment Order);Prevalence;7.782101283277499E-4;0.0;3.112840559695944E-4;3.106784449657625E-4;0.017643243918554048;0.4000000059604645;0.0
+Precedence(Receive Claim,Payment Order);Added Value;-7.782101283277499E-4;NaN;3.112840559695944E-4;3.106784449657625E-4;0.017643243918554048;0.0;-0.4000000059604645
+Precedence(Receive Claim,Payment Order);Relative Risk;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Payment Order);Jaccard;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Receive Claim,Payment Order);Ylue Q;NaN;NaN;NaN;NaN;NaN;-1.0;-1.0
+Precedence(Receive Claim,Payment Order);Ylue Y;NaN;NaN;NaN;NaN;NaN;-1.0;-1.0
+Precedence(Receive Claim,Payment Order);Klosgen;NaN;NaN;NaN;NaN;NaN;-0.0;-0.0
+Precedence(Receive Claim,Payment Order);Conviction;0.9992217899296544;0.9990066695861646;3.1128400958465815E-4;3.1067839867106935E-4;0.01764324260402997;1.0;0.6000000238418579
+Precedence(Receive Claim,Payment Order);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;-0.0;-0.0
+Precedence(Receive Claim,Payment Order);Collective Strength;3.396203187267806E38;2.8627971130311482E38;2.252764113498522E74;2.2483813039391865E74;1.5009210883649153E37;3.4028234663852886E38;0.9051723480224609
+Precedence(Receive Claim,Payment Order);Laplace Correction;0.3333333432674408;0.33333334326743985;0.0;0.0;0.0;0.3333333432674408;0.3333333432674408
+Precedence(Receive Claim,Payment Order);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Receive Claim,Payment Order);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Receive Claim,Payment Order);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Receive Claim,Payment Order);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Receive Claim,Payment Order);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;-0.27216553688049316;-0.27216553688049316
+Precedence(Receive Claim,Payment Order);Piatetsky-Shapiro;-7.782101718136312E-5;NaN;3.1128409075829915E-6;3.1067847968678496E-6;0.0017643244904447116;0.0;-0.04000000283122063
+Precedence(Receive Claim,Payment Order);Cosine;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Payment Order);Information Gain;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+Precedence(Receive Claim,Payment Order);Sebag-Schoenauer;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Receive Claim,Payment Order);Least Contradiction;-4.863813229571986E-4;NaN;1.2159533073929964E-4;1.2135876394797804E-4;0.011027027284780774;1.401298464324817E-45;-0.25
+Precedence(Receive Claim,Payment Order);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Receive Claim,Payment Order);Example and Counterexample Rate;1.401298464324817E-45;1.4012984643243482E-45;0.0;0.0;0.0;1.401298464324817E-45;1.401298464324817E-45
+Precedence(Receive Claim,Payment Order);Zhang;NaN;NaN;NaN;NaN;NaN;-1.0;-1.0
+ChainSuccession(Receive Claim,Start Claim);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+ChainSuccession(Receive Claim,Start Claim);Confidence;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+ChainSuccession(Receive Claim,Start Claim);Recall;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+ChainSuccession(Receive Claim,Start Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+ChainSuccession(Receive Claim,Start Claim);Accuracy;0.9998054474244322;0.9997950394077815;1.9455262195276635E-5;1.9417411490616565E-5;0.0044108119655315884;1.0;0.8999999761581421
+ChainSuccession(Receive Claim,Start Claim);Lift;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Leverage;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+ChainSuccession(Receive Claim,Start Claim);Compliance;0.9998054474244322;0.9997950394077815;1.9455262195276635E-5;1.9417411490616565E-5;0.0044108119655315884;1.0;0.8999999761581421
+ChainSuccession(Receive Claim,Start Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;-2.2351741790771484E-8;-2.2351741790771484E-8
+ChainSuccession(Receive Claim,Start Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+ChainSuccession(Receive Claim,Start Claim);Coverage;1.9455253208193747E-4;0.0;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.10000000149011612;0.0
+ChainSuccession(Receive Claim,Start Claim);Prevalence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+ChainSuccession(Receive Claim,Start Claim);Added Value;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+ChainSuccession(Receive Claim,Start Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Jaccard;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+ChainSuccession(Receive Claim,Start Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Conviction;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+ChainSuccession(Receive Claim,Start Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+ChainSuccession(Receive Claim,Start Claim);Laplace Correction;0.49967574580402213;0.4996057342448503;5.404236277511425E-5;5.3937221991505075E-5;0.007351351085012486;0.5;0.3333333432674408
+ChainSuccession(Receive Claim,Start Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Piatetsky-Shapiro;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+ChainSuccession(Receive Claim,Start Claim);Cosine;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+ChainSuccession(Receive Claim,Start Claim);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+ChainSuccession(Receive Claim,Start Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+ChainSuccession(Receive Claim,Start Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+ChainSuccession(Receive Claim,Start Claim);Zhang;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Start Claim,Accept Claim);Confidence;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Recall;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Start Claim,Accept Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Specificity;0.8906074427213189;0.8832377372509774;0.012949232886508564;0.01292403982641808;0.11379469621431644;1.0;0.6666666865348816
+AlternateResponse(Start Claim,Accept Claim);Accuracy;0.8906074427213189;0.8832377372509774;0.012949232886508564;0.01292403982641808;0.11379469621431644;1.0;0.6666666865348816
+AlternateResponse(Start Claim,Accept Claim);Lift;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Leverage;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+AlternateResponse(Start Claim,Accept Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Coverage;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Start Claim,Accept Claim);Prevalence;0.10939256470027138;0.0;0.012949234666511664;0.012924041602958139;0.11379470403543245;0.3333333432674408;0.0
+AlternateResponse(Start Claim,Accept Claim);Added Value;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Jaccard;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Start Claim,Accept Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Conviction;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AlternateResponse(Start Claim,Accept Claim);Laplace Correction;0.5;0.4999999999999992;0.0;0.0;0.0;0.5;0.5
+AlternateResponse(Start Claim,Accept Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Piatetsky-Shapiro;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Start Claim,Accept Claim);Cosine;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Least Contradiction;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Start Claim,Accept Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Accept Claim);Zhang;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Accept Claim);Confidence;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Accept Claim);Recall;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Accept Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+Precedence(Start Claim,Accept Claim);Accuracy;0.9453037208388287;0.9435845765683215;0.003237308330968187;0.0032310100657328405;0.05689734906802062;1.0;0.8333333134651184
+Precedence(Start Claim,Accept Claim);Lift;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Leverage;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Accept Claim);Compliance;0.9453037208388287;0.9435845765683215;0.003237308330968187;0.0032310100657328405;0.05689734906802062;1.0;0.8333333134651184
+Precedence(Start Claim,Accept Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;7.450580596923828E-9;-2.2351741790771484E-8
+Precedence(Start Claim,Accept Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Accept Claim);Coverage;0.05469628235013569;0.0;0.003237308666627916;0.0032310104007395347;0.05689735201771622;0.1666666716337204;0.0
+Precedence(Start Claim,Accept Claim);Prevalence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Accept Claim);Added Value;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Accept Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Jaccard;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Accept Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Conviction;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Precedence(Start Claim,Accept Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+Precedence(Start Claim,Accept Claim);Laplace Correction;0.4192607052015423;0.41083279207676043;0.006951238416600216;0.006937714606451189;0.08337408720100159;0.5;0.3333333432674408
+Precedence(Start Claim,Accept Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Piatetsky-Shapiro;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Accept Claim);Cosine;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Accept Claim);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+Precedence(Start Claim,Accept Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Accept Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+Precedence(Start Claim,Accept Claim);Zhang;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Start Claim,Execute Payment);Confidence;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Recall;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Start Claim,Execute Payment);Lovinger;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Specificity;0.627793991264202;0.4890970039716168;0.14893312366979006;0.14864337051089943;0.3859185453820405;1.0;0.20000000298023224
+AlternateResponse(Start Claim,Execute Payment);Accuracy;0.627793991264202;0.4890970039716168;0.14893312366979006;0.14864337051089943;0.3859185453820405;1.0;0.20000000298023224
+AlternateResponse(Start Claim,Execute Payment);Lift;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Leverage;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+AlternateResponse(Start Claim,Execute Payment);Odds Ratio;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Gini Index;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Certainty factor;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Coverage;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Start Claim,Execute Payment);Prevalence;0.37220601569353856;0.0;0.1489331293258088;0.14864337615591422;0.38591855271003594;0.800000011920929;0.0
+AlternateResponse(Start Claim,Execute Payment);Added Value;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Relative Risk;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Jaccard;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Start Claim,Execute Payment);Ylue Q;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Ylue Y;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Klosgen;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Conviction;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Collective Strength;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+AlternateResponse(Start Claim,Execute Payment);Laplace Correction;0.5;0.4999999999999992;0.0;0.0;0.0;0.5;0.5
+AlternateResponse(Start Claim,Execute Payment);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Piatetsky-Shapiro;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Start Claim,Execute Payment);Cosine;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Information Gain;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Least Contradiction;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+AlternateResponse(Start Claim,Execute Payment);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Execute Payment);Zhang;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Execute Payment);Confidence;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Execute Payment);Recall;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Lovinger;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Execute Payment);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+Precedence(Start Claim,Execute Payment);Accuracy;0.8413424213572697;0.8247914802034052;0.027274366199231043;0.02722130322997184;0.1651495267908178;1.0;0.6666666865348816
+Precedence(Start Claim,Execute Payment);Lift;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Leverage;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Execute Payment);Compliance;0.8413423936422691;0.8247914459147616;0.02727437590038185;0.02722131291224881;0.16514955616162535;1.0;0.6666666269302368
+Precedence(Start Claim,Execute Payment);Odds Ratio;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Gini Index;NaN;NaN;NaN;NaN;NaN;2.9802322387695312E-8;-1.4901161193847656E-8
+Precedence(Start Claim,Execute Payment);Certainty factor;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Execute Payment);Coverage;0.15865759226830548;0.0;0.027274371046083996;0.027221308067395117;0.16514954146495228;0.3333333432674408;0.0
+Precedence(Start Claim,Execute Payment);Prevalence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Execute Payment);Added Value;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Execute Payment);Relative Risk;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Jaccard;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Execute Payment);Ylue Q;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Ylue Y;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Klosgen;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Conviction;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+Precedence(Start Claim,Execute Payment);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Collective Strength;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+Precedence(Start Claim,Execute Payment);Laplace Correction;0.35684176548909574;0.32347078445007044;0.022126046376067066;0.022082999593234252;0.1487482651195202;0.5;0.20000000298023224
+Precedence(Start Claim,Execute Payment);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Piatetsky-Shapiro;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Execute Payment);Cosine;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Information Gain;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+Precedence(Start Claim,Execute Payment);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+Precedence(Start Claim,Execute Payment);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Execute Payment);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+Precedence(Start Claim,Execute Payment);Zhang;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Start Claim,Payment Order);Confidence;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Recall;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Lovinger;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+AlternateResponse(Start Claim,Payment Order);Accuracy;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+AlternateResponse(Start Claim,Payment Order);Lift;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Leverage;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+AlternateResponse(Start Claim,Payment Order);Odds Ratio;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Gini Index;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Certainty factor;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Coverage;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Start Claim,Payment Order);Prevalence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Start Claim,Payment Order);Added Value;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Relative Risk;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Jaccard;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Ylue Q;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Ylue Y;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Klosgen;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Conviction;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Collective Strength;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Laplace Correction;0.5;0.4999999999999992;0.0;0.0;0.0;0.5;0.5
+AlternateResponse(Start Claim,Payment Order);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Piatetsky-Shapiro;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+AlternateResponse(Start Claim,Payment Order);Cosine;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Information Gain;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Least Contradiction;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+AlternateResponse(Start Claim,Payment Order);Zhang;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Payment Order);Confidence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Payment Order);Recall;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Lovinger;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Payment Order);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+Precedence(Start Claim,Payment Order);Accuracy;0.8188445779136181;0.815977819311184;0.004672602611144754;0.004663511944586107;0.06835643796413586;0.8999999761581421;0.6666666865348816
+Precedence(Start Claim,Payment Order);Lift;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Leverage;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Payment Order);Compliance;0.8188445772178445;0.8159778184595796;0.0046726028233204505;0.00466351215634901;0.06835643951611618;0.8999999761581421;0.6666666269302368
+Precedence(Start Claim,Payment Order);Odds Ratio;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Gini Index;4.5515219988989935E-9;NaN;3.507904258675993E-17;3.5010795422194245E-17;5.922756333562941E-9;2.9802322387695312E-8;-2.2351741790771484E-8
+Precedence(Start Claim,Payment Order);Certainty factor;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Payment Order);Coverage;0.1811554266379038;0.16785756006903088;0.004672602283089285;0.004663511617168878;0.0683564355645413;0.3333333432674408;0.10000000149011612
+Precedence(Start Claim,Payment Order);Prevalence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Payment Order);Added Value;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Payment Order);Relative Risk;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Jaccard;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Payment Order);Ylue Q;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Ylue Y;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Klosgen;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Conviction;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+Precedence(Start Claim,Payment Order);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Collective Strength;3.4028234663852886E38;3.4028234663859614E38;0.0;0.0;0.0;3.4028234663852886E38;3.4028234663852886E38
+Precedence(Start Claim,Payment Order);Laplace Correction;0.3333333432674408;0.33333334326743985;0.0;0.0;0.0;0.3333333432674408;0.3333333432674408
+Precedence(Start Claim,Payment Order);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Piatetsky-Shapiro;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Payment Order);Cosine;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Information Gain;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Sebag-Schoenauer;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Precedence(Start Claim,Payment Order);Least Contradiction;1.401298464324817E-45;1.4012984643243482E-45;0.0;0.0;0.0;1.401298464324817E-45;1.401298464324817E-45
+Precedence(Start Claim,Payment Order);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Precedence(Start Claim,Payment Order);Example and Counterexample Rate;1.401298464324817E-45;1.4012984643243482E-45;0.0;0.0;0.0;1.401298464324817E-45;1.401298464324817E-45
+Precedence(Start Claim,Payment Order);Zhang;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+CoExistence(Start Claim,Receive Claim);Confidence;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+CoExistence(Start Claim,Receive Claim);Recall;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+CoExistence(Start Claim,Receive Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+CoExistence(Start Claim,Receive Claim);Accuracy;0.9998054474244322;0.9997950394077815;1.9455262195276635E-5;1.9417411490616565E-5;0.0044108119655315884;1.0;0.8999999761581421
+CoExistence(Start Claim,Receive Claim);Lift;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Leverage;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+CoExistence(Start Claim,Receive Claim);Compliance;0.9998054474244322;0.9997950394077815;1.9455262195276635E-5;1.9417411490616565E-5;0.0044108119655315884;1.0;0.8999999761581421
+CoExistence(Start Claim,Receive Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;-2.2351741790771484E-8;-2.2351741790771484E-8
+CoExistence(Start Claim,Receive Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+CoExistence(Start Claim,Receive Claim);Coverage;1.9455253208193747E-4;0.0;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.10000000149011612;0.0
+CoExistence(Start Claim,Receive Claim);Prevalence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+CoExistence(Start Claim,Receive Claim);Added Value;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+CoExistence(Start Claim,Receive Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Jaccard;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+CoExistence(Start Claim,Receive Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Conviction;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+CoExistence(Start Claim,Receive Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+CoExistence(Start Claim,Receive Claim);Laplace Correction;0.49967574580402213;0.4996057342448503;5.404236277511425E-5;5.3937221991505075E-5;0.007351351085012486;0.5;0.3333333432674408
+CoExistence(Start Claim,Receive Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Piatetsky-Shapiro;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+CoExistence(Start Claim,Receive Claim);Cosine;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;0.0;0.0
+CoExistence(Start Claim,Receive Claim);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+CoExistence(Start Claim,Receive Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+CoExistence(Start Claim,Receive Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+CoExistence(Start Claim,Receive Claim);Zhang;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Start Claim,Receive Claim);Support;1.9455253208193747E-4;0.0;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.10000000149011612;0.0
+NotSuccession(Start Claim,Receive Claim);Confidence;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Start Claim,Receive Claim);Recall;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Start Claim,Receive Claim);Lovinger;NaN;NaN;NaN;NaN;NaN;1.401298464324817E-45;1.401298464324817E-45
+NotSuccession(Start Claim,Receive Claim);Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Start Claim,Receive Claim);Accuracy;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Start Claim,Receive Claim);Lift;NaN;NaN;NaN;NaN;NaN;9.999999046325684;9.999999046325684
+NotSuccession(Start Claim,Receive Claim);Leverage;NaN;NaN;NaN;NaN;NaN;0.9900000095367432;0.9900000095367432
+NotSuccession(Start Claim,Receive Claim);Compliance;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+NotSuccession(Start Claim,Receive Claim);Odds Ratio;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Start Claim,Receive Claim);Gini Index;NaN;NaN;NaN;NaN;NaN;0.18000002205371857;0.18000002205371857
+NotSuccession(Start Claim,Receive Claim);Certainty factor;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Start Claim,Receive Claim);Coverage;1.9455253208193747E-4;0.0;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.10000000149011612;0.0
+NotSuccession(Start Claim,Receive Claim);Prevalence;1.9455253208193747E-4;0.0;1.945525349809965E-5;1.9417402810360155E-5;0.004410810979638512;0.10000000149011612;0.0
+NotSuccession(Start Claim,Receive Claim);Added Value;NaN;NaN;NaN;NaN;NaN;0.8999999761581421;0.8999999761581421
+NotSuccession(Start Claim,Receive Claim);Relative Risk;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Start Claim,Receive Claim);Jaccard;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Start Claim,Receive Claim);Ylue Q;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Start Claim,Receive Claim);Ylue Y;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Start Claim,Receive Claim);Klosgen;NaN;NaN;NaN;NaN;NaN;0.2846049964427948;0.2846049964427948
+NotSuccession(Start Claim,Receive Claim);Conviction;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Start Claim,Receive Claim);Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;0.9899998307228088;0.9899998307228088
+NotSuccession(Start Claim,Receive Claim);Collective Strength;NaN;NaN;NaN;NaN;NaN;-2.4146347045898438;-2.4146347045898438
+NotSuccession(Start Claim,Receive Claim);Laplace Correction;0.5003242542539588;0.500279924731592;5.404238210217235E-5;5.3937241280961894E-5;0.007351352399536588;0.6666666865348816;0.5
+NotSuccession(Start Claim,Receive Claim);J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Start Claim,Receive Claim);One-way Support;NaN;NaN;NaN;NaN;NaN;3.321928024291992;3.321928024291992
+NotSuccession(Start Claim,Receive Claim);Two-way Support;NaN;NaN;NaN;NaN;NaN;0.3321928083896637;0.3321928083896637
+NotSuccession(Start Claim,Receive Claim);Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+NotSuccession(Start Claim,Receive Claim);Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Start Claim,Receive Claim);Piatetsky-Shapiro;1.7509728322233204E-4;0.0;1.575875611620656E-5;1.5728097057614718E-5;0.003969729980263967;0.09000000357627869;0.0
+NotSuccession(Start Claim,Receive Claim);Cosine;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Start Claim,Receive Claim);Information Gain;NaN;NaN;NaN;NaN;NaN;2.3025848865509033;2.3025848865509033
+NotSuccession(Start Claim,Receive Claim);Sebag-Schoenauer;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Start Claim,Receive Claim);Least Contradiction;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Start Claim,Receive Claim);Odd Multiplier;NaN;NaN;NaN;NaN;NaN;3.4028234663852886E38;3.4028234663852886E38
+NotSuccession(Start Claim,Receive Claim);Example and Counterexample Rate;NaN;NaN;NaN;NaN;NaN;1.0;1.0
+NotSuccession(Start Claim,Receive Claim);Zhang;NaN;NaN;NaN;NaN;NaN;1.0000001192092896;1.0000001192092896
+MODEL;Support;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+MODEL;Confidence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+MODEL;Recall;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Lovinger;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+MODEL;Specificity;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+MODEL;Accuracy;0.6052961547782908;0.5849171386944892;0.02410420888908514;0.0240573135410519;0.15525530228976123;0.800000011920929;0.4000000059604645
+MODEL;Lift;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Leverage;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+MODEL;Compliance;0.6052961401670359;0.5849171197618979;0.024104213294067055;0.02405731793746381;0.15525531647601332;0.800000011920929;0.3999999761581421
+MODEL;Odds Ratio;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Gini Index;1.5278038811590884E-8;0.0;2.0718588474730901E-16;2.0678279936842319E-16;1.4393953061869731E-8;2.9802322387695312E-8;0.0
+MODEL;Certainty factor;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+MODEL;Coverage;0.39470386049974754;0.3631278973995508;0.024104212940959532;0.02405731758504327;0.15525531533882997;0.6000000238418579;0.20000000298023224
+MODEL;Prevalence;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+MODEL;Added Value;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+MODEL;Relative Risk;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Jaccard;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+MODEL;Ylue Q;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Ylue Y;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Klosgen;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Conviction;1.0;1.0;0.0;0.0;0.0;1.0;1.0
+MODEL;Interestingness Weighting Dependency;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Collective Strength;3.4028234663852886E38;3.4028234663859614E38;0.0;0.0;0.0;3.4028234663852886E38;3.4028234663852886E38
+MODEL;Laplace Correction;0.24196081970916203;0.2222846236503883;0.008953705208440877;0.008936285548502275;0.09462402025089019;0.3333333432674408;0.125
+MODEL;J Measure;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;One-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Two-way Support;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Two-way Support Variation;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Linear Correlation Coefficient;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Piatetsky-Shapiro;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+MODEL;Cosine;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Information Gain;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Sebag-Schoenauer;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+MODEL;Least Contradiction;1.401298464324817E-45;1.4012984643243482E-45;0.0;0.0;0.0;1.401298464324817E-45;1.401298464324817E-45
+MODEL;Odd Multiplier;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+MODEL;Example and Counterexample Rate;1.401298464324817E-45;1.4012984643243482E-45;0.0;0.0;0.0;1.401298464324817E-45;1.401298464324817E-45
+MODEL;Zhang;NaN;NaN;NaN;NaN;NaN;NaN;NaN

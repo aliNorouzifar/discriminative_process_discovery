@@ -1,0 +1,1 @@
+java -cp Janus.jar minerful.JanusOfflineMinerStarter -iLF E:\PADS\Projects\Janus-master\Janus-master\in\l1.xes -s 0.1 -c 0.9  -oCSV E:\PADS\Projects\Janus-master\Janus-master\in\xxx.csv -oJSON E:\PADS\Projects\Janus-master\Janus-master\in\xxx.xml
