@@ -1,7 +1,7 @@
-
+from pm4py.algo.filtering.log.variants import variants_filter
 import pandas as pd
-import ast
-from functions.utils import import_csv_as_dataframe
+import pm4py
+
 
 mapping = {
            'Absence':"Absence",
@@ -61,87 +61,44 @@ def combine_models(json_content_P,json_content_M):
 
 
 
-
-def create_unique_trace_constraint_df(df):
+def extract_trace_variants(xes_file_path):
     """
-    Creates a new DataFrame with unique trace and declarative constraint combinations,
-    retains all extra columns from the original DataFrame, and counts their occurrences.
-
-    Additionally, processes the "Events-Evaluation" column (a stringified list) to create separate columns
-    for the counts of 0s, 1s, 2s, and 3s. Rows where the second column has the value "MODEL" are excluded.
+    Reads an XES event log file and extracts trace variants using pm4py.
 
     Parameters:
-        df (pd.DataFrame): The original DataFrame with at least two columns: trace and declarative constraint.
-        output_file_path (str): The path to save the resulting DataFrame as a CSV file.
+        xes_file_path (str): Path to the XES file.
 
     Returns:
-        pd.DataFrame: A new DataFrame with unique combinations, all extra columns, and their counts.
+        dict: A dictionary where keys are trace variants and values are their frequencies.
     """
-    if df.shape[1] < 2:
-        print("Error: The DataFrame must have at least two columns: trace and declarative constraint.")
-        return None
+    # Import the XES event log
+    log = pm4py.read_xes(xes_file_path)
 
-    # Exclude rows where the second column has the value "MODEL"
-    df = df[df.iloc[:, 1] != "MODEL"].copy()
+    # Extract trace variants and their frequencies
+    variants = variants_filter.get_variants(log)
 
-    group_cols = df.columns[:2].tolist()
-    result_df = (
-        df.groupby(group_cols, as_index=False)
-        .apply(lambda x: x.iloc[0])  # Retain the first row of each group
-        .assign(count=df.groupby(group_cols).size().values)  # Add the count column
-        .reset_index(drop=True)
-    )
+    # Count frequencies of each variant
+    variant_counts = {"\u003c" + ",".join(variant) +"\u003e": len(instances) for variant, instances in variants.items()}
 
-    if 'Events-Evaluation' in result_df.columns:
-        # Parse the stringified list and count occurrences of 0s, 1s, 2s, and 3s
-        result_df[['count_0', 'count_1', 'count_2', 'count_3']] = (
-            result_df['Events-Evaluation']
-            .apply(lambda x: pd.Series([
-                ast.literal_eval(x).count(0),
-                ast.literal_eval(x).count(1),
-                ast.literal_eval(x).count(2),
-                ast.literal_eval(x).count(3)
-            ]))
-        )
-        # Drop the original "Events-Evaluation" column
-        result_df = result_df.drop(columns=['Events-Evaluation'])
-
-    # Save the resulting DataFrame as a CSV file
-    result_df
-
-    return result_df
-def create_pivot_dataframe(result_df):
-    """
-    Creates a pivot DataFrame where rows are the values from the first column,
-    columns are the values from the second column, and each cell is a tuple (x, y):
-        - x: The value of the count column
-        - y: "violated" if count_2 > 0, "satisfied" if count_3 > 0, otherwise "vacsatisfied".
-
-    Parameters:
-        result_df (pd.DataFrame): The processed DataFrame.
-
-    Returns:
-        pd.DataFrame: A pivoted DataFrame with the first column as the row index.
-    """
-    def determine_status(row):
-        if row['count_2'] > 0:
-            return "violated"
-        elif row['count_3'] > 0:
-            return "satisfied"
-        else:
-            return "vac_satisfied"
-
-    result_df['status'] = result_df.apply(determine_status, axis=1)
-    result_df['cell_value'] = result_df.apply(lambda row: row['status'], axis=1)
-
-    pivot_df = result_df.pivot(index=result_df.columns[0], columns=result_df.columns[1], values='cell_value').reset_index()
-    pivot_df = pivot_df.merge(result_df[['Trace', 'count']].drop_duplicates(), on='Trace', how='left')
-    return pivot_df
+    return variant_counts
 
 
-# Example usage
-# df = import_csv_as_dataframe('example.csv')
-# result_df = create_unique_trace_constraint_df(df, 'result.csv')
+def encode(trace_variants,data):
+    for tr in data:
+        for constraint in data[tr]:
+            if 2 in data[tr][constraint]:
+                data[tr][constraint] = "violated"
+            elif 3 in data[tr][constraint]:
+                data[tr][constraint] = "satisfied"
+            else:
+                data[tr][constraint] = "vac_satisfied"
+
+    df = pd.DataFrame(data).T
+    df_count =pd.Series(trace_variants)
+    repeated_indices = df.index.repeat(df_count)
+    result = df.loc[repeated_indices].reset_index()
+    return result
+
 
 
 

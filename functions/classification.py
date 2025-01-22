@@ -27,11 +27,26 @@ def prepare_data(pivot_df_P, pivot_df_M):
     combined_df = pd.concat([pivot_df_P, pivot_df_M], ignore_index=True)
 
     # Separate features and target
-    X = combined_df.drop(columns=['Trace', 'label'])
+    X = combined_df.drop(columns=['label'])
     y = combined_df['label']
 
-    # Convert non-numeric columns to numeric using one-hot encoding
-    X = pd.get_dummies(X, drop_first=True)
+    # Encode only "satisfied" and "violated" values in each column
+    def encode_satisfied_violated(df):
+        """
+        Efficiently encodes columns containing "satisfied", "violated", and "vacsatisfied"
+        into two binary columns for "satisfied" and "violated".
+        """
+        encoded_columns = []  # Store encoded columns to concatenate later
+        for column in df.columns:
+            encoded_columns.append((df[column] == "satisfied").astype(int).rename(column + "_satisfied"))
+            encoded_columns.append((df[column] == "violated").astype(int).rename(column + "_violated"))
+        # Concatenate all columns at once
+        return pd.concat(encoded_columns, axis=1)
+
+    X = encode_satisfied_violated(X)
+
+    # # Convert non-numeric columns to numeric using one-hot encoding
+    # X = pd.get_dummies(X, drop_first=True)
 
     return X, y
 
@@ -47,10 +62,10 @@ def train_and_evaluate_with_shap(pivot_df_P, pivot_df_M):
     X, y = prepare_data(pivot_df_P, pivot_df_M)
 
     # Split into training and test sets
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42, stratify=y)
 
     # Train Random Forest Classifier
-    clf = RandomForestClassifier(random_state=42)
+    clf = RandomForestClassifier()
     clf.fit(X_train, y_train)
 
     # Predict on test data
@@ -71,13 +86,14 @@ def train_and_evaluate_with_shap(pivot_df_P, pivot_df_M):
 
     # shap.summary_plot(shap_values, X_train, plot_type="bar", show=True)
 
-    # Check if binary classification (2 classes)
-    if len(shap_values) == 2:
-        # Use SHAP values for class 1 (positive class)
-        shap.summary_plot(shap_values[1], X_train, plot_type="bar", show=True)
-    else:
-        # Use SHAP values directly for single-class problems
-        shap.summary_plot(shap_values, X_train, plot_type="bar", show=True)
+    shap.summary_plot(shap_values[0].T, X_train, plot_type='bar')
+    # # Check if binary classification (2 classes)
+    # if len(shap_values) == 2:
+    #     # Use SHAP values for class 1 (positive class)
+    #     shap.summary_plot(shap_values[1], X_train, plot_type="bar", show=True)
+    # else:
+    #     # Use SHAP values directly for single-class problems
+    #     shap.summary_plot(shap_values, X_train, plot_type="bar", show=True)
 
 # Example usage
 # train_and_evaluate_with_shap(pivot_df_P, pivot_df_M)
