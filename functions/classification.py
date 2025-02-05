@@ -86,14 +86,9 @@ def train_and_evaluate_with_shap(pivot_df_P, pivot_df_M):
 
     # shap.summary_plot(shap_values, X_train, plot_type="bar", show=True)
 
-    shap.summary_plot(shap_values[0].T, X_train, plot_type='bar')
-    # # Check if binary classification (2 classes)
-    # if len(shap_values) == 2:
-    #     # Use SHAP values for class 1 (positive class)
-    #     shap.summary_plot(shap_values[1], X_train, plot_type="bar", show=True)
-    # else:
-    #     # Use SHAP values directly for single-class problems
-    #     shap.summary_plot(shap_values, X_train, plot_type="bar", show=True)
+    # shap.summary_plot(shap_values[0].T, X_train, plot_type='dot')
+    shap.summary_plot(shap_values[..., 0], X_train, plot_type='dot')
+
 
 # Example usage
 # train_and_evaluate_with_shap(pivot_df_P, pivot_df_M)

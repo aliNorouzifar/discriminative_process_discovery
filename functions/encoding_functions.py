@@ -86,12 +86,13 @@ def extract_trace_variants(xes_file_path):
 def encode(trace_variants,data):
     for tr in data:
         for constraint in data[tr]:
-            if 2 in data[tr][constraint]:
-                data[tr][constraint] = "violated"
-            elif 3 in data[tr][constraint]:
-                data[tr][constraint] = "satisfied"
-            else:
-                data[tr][constraint] = "vac_satisfied"
+            if constraint != "MODEL":
+                if 2 in data[tr][constraint]:
+                    data[tr][constraint] = "violated"
+                elif 3 in data[tr][constraint]:
+                    data[tr][constraint] = "satisfied"
+                else:
+                    data[tr][constraint] = "vac_satisfied"
 
     df = pd.DataFrame(data).T
     df_count =pd.Series(trace_variants)

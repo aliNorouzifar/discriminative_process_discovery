@@ -15,20 +15,20 @@ meas_M_path = r"E:\PADS\Projects\IMr_pos_neg\outputs\test_M_mes.json"
 encoded_M_path = r"E:\PADS\Projects\IMr_pos_neg\outputs\encoded_M.csv"
 
 combined_model_path = r"E:\PADS\Projects\IMr_pos_neg\outputs\test_filtered.json"
+
+
+# discover_declare(LP_path,decl_P_path)
+# discover_declare(LM_path,decl_M_path)
 #
+# decl_P = read_json_file(decl_P_path)
+# decl_M = read_json_file(decl_M_path)
 #
-discover_declare(LP_path,decl_P_path)
-discover_declare(LM_path,decl_M_path)
-
-decl_P = read_json_file(decl_P_path)
-decl_M = read_json_file(decl_M_path)
-
-json_content = combine_models(decl_P,decl_M)
-
-save_json_file(json_content, combined_model_path)
-
-measurement_extraction(LP_path,combined_model_path,meas_P_path)
-measurement_extraction(LM_path,combined_model_path,meas_M_path)
+# json_content = combine_models(decl_P,decl_M)
+#
+# save_json_file(json_content, combined_model_path)
+#
+# measurement_extraction(LP_path,combined_model_path,meas_P_path)
+# measurement_extraction(LM_path,combined_model_path,meas_M_path)
 
 
 trace_variants_P = extract_trace_variants(LP_path)
