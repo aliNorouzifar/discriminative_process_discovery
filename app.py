@@ -4,8 +4,8 @@ import dash_bootstrap_components as dbc
 from callbacks import register_callbacks
 import pages.start_page as start_page
 import pages.about_me as about_me
-import pages.IMr as IMr_page
-import pages.XPVI as XPVI_page
+import pages.cluster_discovery as cluster_discovery
+# import pages.XPVI as XPVI_page
 import os
 from prolysis.util import redis_connection
 
@@ -42,10 +42,10 @@ app.layout = html.Div([
 def display_page(pathname):
     if pathname == '/':
         return start_page.layout
-    elif pathname == '/XPVI':
-        return XPVI_page.create_layout()
-    elif pathname == '/IMr':
-        return IMr_page.create_layout()
+    # elif pathname == '/XPVI':
+    #     return XPVI_page.create_layout()
+    elif pathname == '/cluster_discovery':
+        return cluster_discovery.create_layout()
     elif pathname == '/about_me':
         return about_me.layout
     else:
